@@ -1,0 +1,14 @@
+{
+  "name": "xkcd1975scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grapher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Goldsmith <adam@adamgoldsmith.name>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
