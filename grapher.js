@@ -9,9 +9,9 @@ out.write('digraph {\n');
 
 function gvEscape(string) {
   return string.replace(/"/g, '\"')
-    .replace(/&/g, "%26")
-    .replace(/</g, "%3C")
-    .replace(/>/g, "%3E");
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
 
 function getID(id) {
