@@ -4,9 +4,6 @@ let parsed = [];
 // exclude comics, spells, and "who's on first"
 let exclude = ["Ao2B8XnNyxQrFHzEhDsk4c", "8KdSa7DqsB29AVwttUe2pZ", "T2azcrJ4TH9Fn1eTakXxbg"];
 
-let out = fs.createWriteStream('out.gv', {flags: 'w'});
-out.write('digraph {\n');
-
 function gvEscape(string) {
   return string.replace(/"/g, '\"')
     .replace(/&/g, "&amp;")
@@ -17,9 +14,10 @@ function gvEscape(string) {
 function getID(id) {
   // ignore some
   if (exclude.indexOf(id) > -1) {
-    return;
+    return [];
   }
 
+  let graph = [];
   let toParse = [];
   let connections = [];
 
@@ -28,12 +26,12 @@ function getID(id) {
     data.entries = data.Menu.entries;
   }
 
-  out.write(`\n"${id}"[label=<<table>\n`);
+  graph.push(`\n"${id}"[label=<<table>`);
   // uncomment to add id header
-  // out.write(`<tr><td>${id}</td></tr>`);
+  // graph.push(`<tr><td>${id}</td></tr>`);
   data.entries.forEach((ent, idx) => {
     let next = ent.reaction.subMenu;
-    out.write(`<tr><td port="${idx}">${gvEscape(ent.label)}</td></tr>\n`);
+    graph.push(`<tr><td port="${idx}">${gvEscape(ent.label)}</td></tr>`);
 
     // has a connection
     if (next !== undefined && next !== "") {
@@ -45,16 +43,13 @@ function getID(id) {
       }
     }
   });
-  out.write("</table>>];\n");
+  graph.push("</table>>];");
 
-  out.write(connections.join("\n"));
-
-  toParse.forEach(getID);
+  return graph.concat(connections,
+                      toParse.map(getID).reduce(
+                        (sum, elt) => sum.concat(elt), []));
 }
 
-// let root = JSON.parse(fs.readFileSync("json/root.json"));
-// root.Menu.entries.forEach(ent => {
-//   getID(ent.reaction.subMenu);
-// });
-getID('root');
-out.write('}\n');
+let graph = [].concat('digraph {', getID('root'), '}');
+
+fs.writeFileSync("out.dot", graph.join('\n'));
