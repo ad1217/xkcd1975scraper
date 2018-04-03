@@ -9,7 +9,7 @@ function getID(id) {
   fetch(root + id).then(r => r.json())
     .then(data => {
       console.log(data.id);
-      fs.writeFileSync(id + ".json", JSON.stringify(data));
+      fs.writeFileSync("json/" + id + ".json", JSON.stringify(data));
       data.entries.forEach(ent => {
         let next = ent.reaction.subMenu;
         // not already retrieved
@@ -22,8 +22,17 @@ function getID(id) {
     });
 }
 
+try {
+  fs.mkdirSync('json');
+} catch (err) {
+  if (err.code !== 'EEXIST') {
+    throw err;
+  }
+}
+
 fetch("https://xkcd.com/1975/alto/root").then(r => r.json())
   .then(data => {
+    fs.writeFileSync("json/root.json", JSON.stringify(data));
     data.Menu.entries.forEach(ent => {
       getID(ent.reaction.subMenu);
     });
