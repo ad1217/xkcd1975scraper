@@ -26,7 +26,7 @@ function getID(id) {
     data.entries = data.Menu.entries;
   }
 
-  graph.push(`\n"${id}"[label=<<table>`);
+  graph.push(`\n"${id}"[label=<<table border="0" cellborder="1" cellspacing="0">`);
   // uncomment to add id header
   // graph.push(`<tr><td>${id}</td></tr>`);
   data.entries.forEach((ent, idx) => {
