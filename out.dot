@@ -1,6 +1,6 @@
 digraph {
 
-"root"[label=<<table>
+"root"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Main Menu</td></tr>
 <tr><td port="1">Recovery Menu</td></tr>
 <tr><td port="2">Power</td></tr>
@@ -8,7 +8,8 @@ digraph {
 "root":"0"->"Qicho3pxwwtFXxf5ZJMuDc"
 "root":"1"->"SBJU5emcQBemvQcH53PW63"
 "root":"2"->"999rE9MMUxChV7MSbySXfR"
-"Qicho3pxwwtFXxf5ZJMuDc"[label=<<table>
+
+"Qicho3pxwwtFXxf5ZJMuDc"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Save</td></tr>
 <tr><td port="1">File</td></tr>
 <tr><td port="2">Edit</td></tr>
@@ -26,7 +27,8 @@ digraph {
 "Qicho3pxwwtFXxf5ZJMuDc":"6"->"XcZed45twyYouTWHTswmEg"
 "Qicho3pxwwtFXxf5ZJMuDc":"7"->"yKVkafy4LJ3UGZXuoi4eA"
 "Qicho3pxwwtFXxf5ZJMuDc":"8"->"Rxv9DzM417BTEBgeGc8tHf"
-"RvpznS8FH4sMTDvxhDjJsZ"[label=<<table>
+
+"RvpznS8FH4sMTDvxhDjJsZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Close</td></tr>
 <tr><td port="1">Open</td></tr>
 <tr><td port="2">Find</td></tr>
@@ -35,7 +37,8 @@ digraph {
 </table>>];
 "RvpznS8FH4sMTDvxhDjJsZ":"1"->"3tBksvtxCic2uQTL31yo8e"
 "RvpznS8FH4sMTDvxhDjJsZ":"2"->"17qMMv93BfQTU2R7dMqpxz"
-"3tBksvtxCic2uQTL31yo8e"[label=<<table>
+
+"3tBksvtxCic2uQTL31yo8e"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">A:\</td></tr>
 <tr><td port="1">A:\</td></tr>
 <tr><td port="2">C:\</td></tr>
@@ -45,7 +48,8 @@ digraph {
 "3tBksvtxCic2uQTL31yo8e":"1"->"MRm3edkN4j1u3JRqtPsv2s"
 "3tBksvtxCic2uQTL31yo8e":"2"->"MRm3edkN4j1u3JRqtPsv2s"
 "3tBksvtxCic2uQTL31yo8e":"3"->"Vrq5kkRDo2qXAfU1uVHUgH"
-"3h3CiQdd7oUoQAUmrGYGg8"[label=<<table>
+
+"3h3CiQdd7oUoQAUmrGYGg8"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please insert disk into Drive A</td></tr>
 <tr><td port="1">Insert</td></tr>
 <tr><td port="2">Remove</td></tr>
@@ -54,54 +58,63 @@ digraph {
 "3h3CiQdd7oUoQAUmrGYGg8":"1"->"P3F3PApsR7MoH96cPujNAT"
 "3h3CiQdd7oUoQAUmrGYGg8":"2"->"MMJUCRhk4yX7Vdywmxf8Qr"
 "3h3CiQdd7oUoQAUmrGYGg8":"3"->"MMJUCRhk4yX7Vdywmxf8Qr"
-"P3F3PApsR7MoH96cPujNAT"[label=<<table>
+
+"P3F3PApsR7MoH96cPujNAT"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Floppy disk</td></tr>
 <tr><td port="1">Chip card</td></tr>
 </table>>];
 "P3F3PApsR7MoH96cPujNAT":"1"->"F16E4aTpbuWxW6YByvi9xG"
-"F16E4aTpbuWxW6YByvi9xG"[label=<<table>
+
+"F16E4aTpbuWxW6YByvi9xG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Thank you. Please wait, authorizing...</td></tr>
 <tr><td port="1">Wait</td></tr>
 </table>>];
 "F16E4aTpbuWxW6YByvi9xG":"1"->"TMGriJwHV17zsaCas9RvB5"
-"TMGriJwHV17zsaCas9RvB5"[label=<<table>
+
+"TMGriJwHV17zsaCas9RvB5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please wait, authorizing...</td></tr>
 <tr><td port="1">Wait</td></tr>
 </table>>];
 "TMGriJwHV17zsaCas9RvB5":"1"->"FADM5kZmirYMRiptzruGAo"
-"FADM5kZmirYMRiptzruGAo"[label=<<table>
+
+"FADM5kZmirYMRiptzruGAo"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please wait, authorizing...</td></tr>
 <tr><td port="1">Wait</td></tr>
 </table>>];
 "FADM5kZmirYMRiptzruGAo":"1"->"6gxQ6cSzwXcpeeAhE3AMPQ"
-"6gxQ6cSzwXcpeeAhE3AMPQ"[label=<<table>
+
+"6gxQ6cSzwXcpeeAhE3AMPQ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please wait, authorizing...</td></tr>
 <tr><td port="1">Wait</td></tr>
 </table>>];
 "6gxQ6cSzwXcpeeAhE3AMPQ":"1"->"WnQfqKLDSLr9TZLdU4d9XJ"
-"WnQfqKLDSLr9TZLdU4d9XJ"[label=<<table>
+
+"WnQfqKLDSLr9TZLdU4d9XJ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please wait, authorizing...</td></tr>
 <tr><td port="1">Wait</td></tr>
 </table>>];
 "WnQfqKLDSLr9TZLdU4d9XJ":"1"->"YCiu32Pqdqi5R91hDZWT6a"
-"YCiu32Pqdqi5R91hDZWT6a"[label=<<table>
+
+"YCiu32Pqdqi5R91hDZWT6a"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please wait, authorizing...</td></tr>
 <tr><td port="1">Wait</td></tr>
 </table>>];
 "YCiu32Pqdqi5R91hDZWT6a":"1"->"6JQgsPYT4UURhL9ZM11kdE"
-"6JQgsPYT4UURhL9ZM11kdE"[label=<<table>
+
+"6JQgsPYT4UURhL9ZM11kdE"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Chip error! REMOVE CARD NOW!</td></tr>
 <tr><td port="1">Remove card</td></tr>
 <tr><td port="2">[Card removed]</td></tr>
 </table>>];
 
-"MMJUCRhk4yX7Vdywmxf8Qr"[label=<<table>
+"MMJUCRhk4yX7Vdywmxf8Qr"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Floppy disk</td></tr>
 <tr><td port="1">Chip card</td></tr>
 </table>>];
 "MMJUCRhk4yX7Vdywmxf8Qr":"0"->"P3F3PApsR7MoH96cPujNAT"
 "MMJUCRhk4yX7Vdywmxf8Qr":"1"->"P3F3PApsR7MoH96cPujNAT"
-"MRm3edkN4j1u3JRqtPsv2s"[label=<<table>
+
+"MRm3edkN4j1u3JRqtPsv2s"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Documents/</td></tr>
 <tr><td port="1">Music/</td></tr>
 <tr><td port="2">Bookmarks/</td></tr>
@@ -112,7 +125,8 @@ digraph {
 "MRm3edkN4j1u3JRqtPsv2s":"2"->"9VHsxz3znSNP75hFjcErsS"
 "MRm3edkN4j1u3JRqtPsv2s":"3"->"XcZed45twyYouTWHTswmEg"
 "MRm3edkN4j1u3JRqtPsv2s":"4"->"DvrfErSnMwNTfSBdJ6bAVV"
-"Nvg4oT6zjbGgPL5gYVh4gg"[label=<<table>
+
+"Nvg4oT6zjbGgPL5gYVh4gg"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey now</td></tr>
 <tr><td port="1">Na</td></tr>
 <tr><td port="2">This</td></tr>
@@ -120,7 +134,8 @@ digraph {
 "Nvg4oT6zjbGgPL5gYVh4gg":"0"->"XP7zdbsBLHx3RdnNdXHfXZ"
 "Nvg4oT6zjbGgPL5gYVh4gg":"1"->"FjzwBbVtjcwozSva2yPS6e"
 "Nvg4oT6zjbGgPL5gYVh4gg":"2"->"K4PV3UnYwWwnChKn6SHypn"
-"XP7zdbsBLHx3RdnNdXHfXZ"[label=<<table>
+
+"XP7zdbsBLHx3RdnNdXHfXZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey now na now</td></tr>
 <tr><td port="1">Hey now</td></tr>
 <tr><td port="2">You're an all-star</td></tr>
@@ -128,43 +143,50 @@ digraph {
 "XP7zdbsBLHx3RdnNdXHfXZ":"0"->"PtmbMEs4WStE3mBgBudcj9"
 "XP7zdbsBLHx3RdnNdXHfXZ":"1"->"5zZR4mDnMB9SFNSx9vTc5m"
 "XP7zdbsBLHx3RdnNdXHfXZ":"2"->"JFCtNzNsrtX334JcVWeXY5"
-"PtmbMEs4WStE3mBgBudcj9"[label=<<table>
+
+"PtmbMEs4WStE3mBgBudcj9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Sing "This Corrosion" to me</td></tr>
 </table>>];
 
-"5zZR4mDnMB9SFNSx9vTc5m"[label=<<table>
+"5zZR4mDnMB9SFNSx9vTc5m"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Don't dream it's over</td></tr>
 </table>>];
 
-"JFCtNzNsrtX334JcVWeXY5"[label=<<table>
+"JFCtNzNsrtX334JcVWeXY5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Get your game on, go play</td></tr>
 </table>>];
 
-"FjzwBbVtjcwozSva2yPS6e"[label=<<table>
+"FjzwBbVtjcwozSva2yPS6e"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "FjzwBbVtjcwozSva2yPS6e":"0"->"R92uk8wve56gyHPzDJYMAG"
-"R92uk8wve56gyHPzDJYMAG"[label=<<table>
+
+"R92uk8wve56gyHPzDJYMAG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "R92uk8wve56gyHPzDJYMAG":"0"->"8HUA7JbAyLNcVzLSLywhLn"
-"8HUA7JbAyLNcVzLSLywhLn"[label=<<table>
+
+"8HUA7JbAyLNcVzLSLywhLn"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "8HUA7JbAyLNcVzLSLywhLn":"0"->"RCreaXYBWCtRcTuYEGX8Cm"
-"RCreaXYBWCtRcTuYEGX8Cm"[label=<<table>
+
+"RCreaXYBWCtRcTuYEGX8Cm"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "RCreaXYBWCtRcTuYEGX8Cm":"0"->"JFs17pqyjLAByFT7Ws5Pro"
-"JFs17pqyjLAByFT7Ws5Pro"[label=<<table>
+
+"JFs17pqyjLAByFT7Ws5Pro"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "JFs17pqyjLAByFT7Ws5Pro":"0"->"BFjFdGpRyWFrWYyLxR9AAT"
-"BFjFdGpRyWFrWYyLxR9AAT"[label=<<table>
+
+"BFjFdGpRyWFrWYyLxR9AAT"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "BFjFdGpRyWFrWYyLxR9AAT":"0"->"LJFL58j1ZDLZ1qTPoGGuiT"
-"LJFL58j1ZDLZ1qTPoGGuiT"[label=<<table>
+
+"LJFL58j1ZDLZ1qTPoGGuiT"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 <tr><td port="1">na</td></tr>
 <tr><td port="2">na</td></tr>
@@ -172,162 +194,189 @@ digraph {
 "LJFL58j1ZDLZ1qTPoGGuiT":"0"->"TBgoDwA5DUQ3YYVsgiq4yZ"
 "LJFL58j1ZDLZ1qTPoGGuiT":"1"->"G6DqcFPTzBUmn4MK1imZdd"
 "LJFL58j1ZDLZ1qTPoGGuiT":"2"->"UVKHnz5G1p7PPXDhEVxcYi"
-"TBgoDwA5DUQ3YYVsgiq4yZ"[label=<<table>
+
+"TBgoDwA5DUQ3YYVsgiq4yZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Batman!</td></tr>
 </table>>];
 
-"G6DqcFPTzBUmn4MK1imZdd"[label=<<table>
+"G6DqcFPTzBUmn4MK1imZdd"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "G6DqcFPTzBUmn4MK1imZdd":"0"->"4fPHUEdJDCgaRtvMYufMCU"
-"4fPHUEdJDCgaRtvMYufMCU"[label=<<table>
+
+"4fPHUEdJDCgaRtvMYufMCU"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 <tr><td port="1">na</td></tr>
 </table>>];
 "4fPHUEdJDCgaRtvMYufMCU":"0"->"Kk7tdPWYhoS2hAFnBEZicY"
 "4fPHUEdJDCgaRtvMYufMCU":"1"->"HgLyKU2wLBbfJyhxg3Ha4a"
-"Kk7tdPWYhoS2hAFnBEZicY"[label=<<table>
+
+"Kk7tdPWYhoS2hAFnBEZicY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Katamari Damacy!</td></tr>
 </table>>];
 
-"HgLyKU2wLBbfJyhxg3Ha4a"[label=<<table>
+"HgLyKU2wLBbfJyhxg3Ha4a"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Land of 1,000 dances</td></tr>
 <tr><td port="1">na</td></tr>
 </table>>];
 "HgLyKU2wLBbfJyhxg3Ha4a":"1"->"HgLyKU2wLBbfJyhxg3Ha4a"
-"UVKHnz5G1p7PPXDhEVxcYi"[label=<<table>
+
+"UVKHnz5G1p7PPXDhEVxcYi"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey</td></tr>
 </table>>];
 "UVKHnz5G1p7PPXDhEVxcYi":"0"->"X3z95MmiXvvtb7tkeTVeWW"
-"X3z95MmiXvvtb7tkeTVeWW"[label=<<table>
+
+"X3z95MmiXvvtb7tkeTVeWW"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey</td></tr>
 </table>>];
 "X3z95MmiXvvtb7tkeTVeWW":"0"->"QXDUtw6tC4ocrNsBx8KLJo"
-"QXDUtw6tC4ocrNsBx8KLJo"[label=<<table>
+
+"QXDUtw6tC4ocrNsBx8KLJo"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Goodbye</td></tr>
 </table>>];
 
-"K4PV3UnYwWwnChKn6SHypn"[label=<<table>
+"K4PV3UnYwWwnChKn6SHypn"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">is</td></tr>
 </table>>];
 "K4PV3UnYwWwnChKn6SHypn":"0"->"7qEXpk5kWAicgB2qECWHA1"
-"7qEXpk5kWAicgB2qECWHA1"[label=<<table>
+
+"7qEXpk5kWAicgB2qECWHA1"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">the</td></tr>
 <tr><td port="1">a</td></tr>
 </table>>];
 "7qEXpk5kWAicgB2qECWHA1":"0"->"EGhinjae9TfGB5v7dGs4gU"
 "7qEXpk5kWAicgB2qECWHA1":"1"->"8vaBp9xnCjCoQVEHQfkjT8"
-"EGhinjae9TfGB5v7dGs4gU"[label=<<table>
+
+"EGhinjae9TfGB5v7dGs4gU"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">story of a girl</td></tr>
 <tr><td port="1">song that doesn't end</td></tr>
 </table>>];
 "EGhinjae9TfGB5v7dGs4gU":"0"->"5XvkhDUuH7UJgkEhakRZH8"
 "EGhinjae9TfGB5v7dGs4gU":"1"->"HQ5Pufhu5ppfFZSgRTBBR9"
-"5XvkhDUuH7UJgkEhakRZH8"[label=<<table>
+
+"5XvkhDUuH7UJgkEhakRZH8"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">who cried a river and drowned the whole world</td></tr>
 </table>>];
 
-"HQ5Pufhu5ppfFZSgRTBBR9"[label=<<table>
+"HQ5Pufhu5ppfFZSgRTBBR9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">This is the song that doesn't end</td></tr>
 </table>>];
 "HQ5Pufhu5ppfFZSgRTBBR9":"0"->"JirB2fgcLmvQA2rN2igU9S"
-"JirB2fgcLmvQA2rN2igU9S"[label=<<table>
+
+"JirB2fgcLmvQA2rN2igU9S"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yes, it goes on and on, my friend</td></tr>
 </table>>];
 "JirB2fgcLmvQA2rN2igU9S":"0"->"EoxPzhGYmHZknnQZg1p6ng"
-"EoxPzhGYmHZknnQZg1p6ng"[label=<<table>
+
+"EoxPzhGYmHZknnQZg1p6ng"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Some people started singing, it not knowing what it was,</td></tr>
 </table>>];
 "EoxPzhGYmHZknnQZg1p6ng":"0"->"PnxdyZvMEZDaLS3PHuRonB"
-"PnxdyZvMEZDaLS3PHuRonB"[label=<<table>
+
+"PnxdyZvMEZDaLS3PHuRonB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">And they'll continue singing it forever just because</td></tr>
 </table>>];
 "PnxdyZvMEZDaLS3PHuRonB":"0"->"HQ5Pufhu5ppfFZSgRTBBR9"
-"8vaBp9xnCjCoQVEHQfkjT8"[label=<<table>
+
+"8vaBp9xnCjCoQVEHQfkjT8"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">story all about how</td></tr>
 </table>>];
 "8vaBp9xnCjCoQVEHQfkjT8":"0"->"3oBCbS2YC65gDx49DvxY85"
-"3oBCbS2YC65gDx49DvxY85"[label=<<table>
+
+"3oBCbS2YC65gDx49DvxY85"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">my life got flipped, turned upside down</td></tr>
 </table>>];
 
-"9VHsxz3znSNP75hFjcErsS"[label=<<table>
+"9VHsxz3znSNP75hFjcErsS"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Comics</td></tr>
 <tr><td port="1">Secret</td></tr>
 </table>>];
 "9VHsxz3znSNP75hFjcErsS":"0"->"Ao2B8XnNyxQrFHzEhDsk4c"
 "9VHsxz3znSNP75hFjcErsS":"1"->"BJM1k8nz2X2CgjcwDtpYQf"
-"BJM1k8nz2X2CgjcwDtpYQf"[label=<<table>
+
+"BJM1k8nz2X2CgjcwDtpYQf"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Enable Dark Web</td></tr>
 <tr><td port="1">Disable Dark Web</td></tr>
 </table>>];
 
-"DvrfErSnMwNTfSBdJ6bAVV"[label=<<table>
+"DvrfErSnMwNTfSBdJ6bAVV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Good morning Paul. What will your first sequence of the day be?</td></tr>
 <tr><td port="1">Celery Man</td></tr>
 </table>>];
 "DvrfErSnMwNTfSBdJ6bAVV":"1"->"BC1bM847B1HrjtTK7w67SQ"
-"BC1bM847B1HrjtTK7w67SQ"[label=<<table>
+
+"BC1bM847B1HrjtTK7w67SQ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">CELERY MAN</td></tr>
 <tr><td port="1">Could you kick up the 4d3d3d3?</td></tr>
 </table>>];
 "BC1bM847B1HrjtTK7w67SQ":"1"->"CicbRq6s5q3iu7b69kHFip"
-"CicbRq6s5q3iu7b69kHFip"[label=<<table>
+
+"CicbRq6s5q3iu7b69kHFip"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">4d3d3d3 engaged.</td></tr>
 <tr><td port="1">add sequence: OYSTER</td></tr>
 </table>>];
 "CicbRq6s5q3iu7b69kHFip":"1"->"EWrkyJmNc7Nx5EMmVWqivZ"
-"EWrkyJmNc7Nx5EMmVWqivZ"[label=<<table>
+
+"EWrkyJmNc7Nx5EMmVWqivZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">OYSTER</td></tr>
 <tr><td port="1">Uhhh... give me a printout of Oyster smiling.</td></tr>
 </table>>];
 "EWrkyJmNc7Nx5EMmVWqivZ":"1"->"RgpmRFkS7f5eoTi928aPDF"
-"RgpmRFkS7f5eoTi928aPDF"[label=<<table>
+
+"RgpmRFkS7f5eoTi928aPDF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">*whirrrrrrrr*</td></tr>
 <tr><td port="1">Computer?</td></tr>
 </table>>];
 "RgpmRFkS7f5eoTi928aPDF":"1"->"4fxxV32Hp2Tofk3Ptbd5rp"
-"4fxxV32Hp2Tofk3Ptbd5rp"[label=<<table>
+
+"4fxxV32Hp2Tofk3Ptbd5rp"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yes.</td></tr>
 <tr><td port="1">Do we have any new sequences?</td></tr>
 </table>>];
 "4fxxV32Hp2Tofk3Ptbd5rp":"1"->"DwYKCB3cs11GE1eXHGtoHw"
-"DwYKCB3cs11GE1eXHGtoHw"[label=<<table>
+
+"DwYKCB3cs11GE1eXHGtoHw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I have a BETA sequence I've been working on. Would you like to see it?</td></tr>
 <tr><td port="1">... alright.</td></tr>
 </table>>];
 "DwYKCB3cs11GE1eXHGtoHw":"1"->"CXk7q3EdfFhByig6DoxsFi"
-"CXk7q3EdfFhByig6DoxsFi"[label=<<table>
+
+"CXk7q3EdfFhByig6DoxsFi"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey Paul, I'm Tayne, your latest dancer. I can't wait to entertain ya.</td></tr>
 <tr><td port="1">Now Tayne I can get into.</td></tr>
 </table>>];
 "CXk7q3EdfFhByig6DoxsFi":"1"->"TFpc4KP1sxuU3ie4JUGB3n"
-"TFpc4KP1sxuU3ie4JUGB3n"[label=<<table>
+
+"TFpc4KP1sxuU3ie4JUGB3n"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">TAYNE</td></tr>
 <tr><td port="1">Can I see a hat wobble?</td></tr>
 </table>>];
 "TFpc4KP1sxuU3ie4JUGB3n":"1"->"DsPejvcacCWXoB2VqvFgoA"
-"DsPejvcacCWXoB2VqvFgoA"[label=<<table>
+
+"DsPejvcacCWXoB2VqvFgoA"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yes.</td></tr>
 <tr><td port="1">And a flarhgunnstow?</td></tr>
 </table>>];
 "DsPejvcacCWXoB2VqvFgoA":"1"->"4qy2eJsNrqTm7XLnDkY4oB"
-"4qy2eJsNrqTm7XLnDkY4oB"[label=<<table>
+
+"4qy2eJsNrqTm7XLnDkY4oB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yes.</td></tr>
 <tr><td port="1">Is there any way to generate a nude Tayne?</td></tr>
 </table>>];
 "4qy2eJsNrqTm7XLnDkY4oB":"1"->"HfhH9VzEyNG8fHr2ZiNSgK"
-"HfhH9VzEyNG8fHr2ZiNSgK"[label=<<table>
+
+"HfhH9VzEyNG8fHr2ZiNSgK"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Not computing. Please repeat.</td></tr>
 <tr><td port="1">Nude. Tayne.</td></tr>
 </table>>];
 "HfhH9VzEyNG8fHr2ZiNSgK":"1"->"46tf1AP7tMkcXwwjTVnorK"
-"46tf1AP7tMkcXwwjTVnorK"[label=<<table>
+
+"46tf1AP7tMkcXwwjTVnorK"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">This is not suitable for work. Are you sure?</td></tr>
 <tr><td port="1">Mmmhmm.</td></tr>
 </table>>];
 
-"Vrq5kkRDo2qXAfU1uVHUgH"[label=<<table>
+"Vrq5kkRDo2qXAfU1uVHUgH"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">home/</td></tr>
 <tr><td port="1">opt/</td></tr>
 <tr><td port="2">sbin/</td></tr>
@@ -337,18 +386,20 @@ digraph {
 "Vrq5kkRDo2qXAfU1uVHUgH":"0"->"MoJLWfaZ4EiDkHxFtohCiq"
 "Vrq5kkRDo2qXAfU1uVHUgH":"3"->"7gaV4qnmB9QDCZ59TVDQWt"
 "Vrq5kkRDo2qXAfU1uVHUgH":"4"->"EabKsZLpMguqPcA57doSyF"
-"MoJLWfaZ4EiDkHxFtohCiq"[label=<<table>
+
+"MoJLWfaZ4EiDkHxFtohCiq"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">guest</td></tr>
 <tr><td port="1">user</td></tr>
 <tr><td port="2">root</td></tr>
 </table>>];
 "MoJLWfaZ4EiDkHxFtohCiq":"1"->"MRm3edkN4j1u3JRqtPsv2s"
 "MoJLWfaZ4EiDkHxFtohCiq":"2"->"LrP7spkoYRc2aBAbJgk3g7"
-"LrP7spkoYRc2aBAbJgk3g7"[label=<<table>
+
+"LrP7spkoYRc2aBAbJgk3g7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are not in the sudoers file. This incident will be reported.</td></tr>
 </table>>];
 
-"7gaV4qnmB9QDCZ59TVDQWt"[label=<<table>
+"7gaV4qnmB9QDCZ59TVDQWt"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">local/</td></tr>
 <tr><td port="1">bin/</td></tr>
 <tr><td port="2">share/</td></tr>
@@ -364,12 +415,13 @@ digraph {
 "7gaV4qnmB9QDCZ59TVDQWt":"4"->"7gaV4qnmB9QDCZ59TVDQWt"
 "7gaV4qnmB9QDCZ59TVDQWt":"5"->"7gaV4qnmB9QDCZ59TVDQWt"
 "7gaV4qnmB9QDCZ59TVDQWt":"6"->"7gaV4qnmB9QDCZ59TVDQWt"
-"EabKsZLpMguqPcA57doSyF"[label=<<table>
+
+"EabKsZLpMguqPcA57doSyF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">random/</td></tr>
 <tr><td port="1">urandom/</td></tr>
 </table>>];
 
-"17qMMv93BfQTU2R7dMqpxz"[label=<<table>
+"17qMMv93BfQTU2R7dMqpxz"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Where</td></tr>
 <tr><td port="1">When</td></tr>
 <tr><td port="2">How</td></tr>
@@ -381,7 +433,8 @@ digraph {
 "17qMMv93BfQTU2R7dMqpxz":"1"->"A8DDFcLgiJVE1W9tJL5WLj"
 "17qMMv93BfQTU2R7dMqpxz":"2"->"D3g8JDCco3Y2hPBo8TQVk1"
 "17qMMv93BfQTU2R7dMqpxz":"5"->"T2azcrJ4TH9Fn1eTakXxbg"
-"5iTsDDJ2aMufDx9snzuJhk"[label=<<table>
+
+"5iTsDDJ2aMufDx9snzuJhk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Computer</td></tr>
 <tr><td port="1">America</td></tr>
 <tr><td port="2">Canada</td></tr>
@@ -391,29 +444,34 @@ digraph {
 "5iTsDDJ2aMufDx9snzuJhk":"1"->"XHXjdGpyDoA1LeKVEoLnTm"
 "5iTsDDJ2aMufDx9snzuJhk":"2"->"Xv9MuB9S9f1L5KYB3ftdpG"
 "5iTsDDJ2aMufDx9snzuJhk":"3"->"M8yd5BWzKiddQViYkshK54"
-"XjuyF1Liy4JCQvQh89ki4p"[label=<<table>
+
+"XjuyF1Liy4JCQvQh89ki4p"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Folder</td></tr>
 <tr><td port="1">Menus</td></tr>
 </table>>];
 "XjuyF1Liy4JCQvQh89ki4p":"0"->"RvpznS8FH4sMTDvxhDjJsZ"
 "XjuyF1Liy4JCQvQh89ki4p":"1"->"Qicho3pxwwtFXxf5ZJMuDc"
-"XHXjdGpyDoA1LeKVEoLnTm"[label=<<table>
+
+"XHXjdGpyDoA1LeKVEoLnTm"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Canada</td></tr>
 </table>>];
 "XHXjdGpyDoA1LeKVEoLnTm":"0"->"Xv9MuB9S9f1L5KYB3ftdpG"
-"Xv9MuB9S9f1L5KYB3ftdpG"[label=<<table>
+
+"Xv9MuB9S9f1L5KYB3ftdpG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Upper</td></tr>
 <tr><td port="1">Lower</td></tr>
 </table>>];
 "Xv9MuB9S9f1L5KYB3ftdpG":"0"->"SuKY4d6xdveVmcNTHs43K5"
 "Xv9MuB9S9f1L5KYB3ftdpG":"1"->"2AFXtRp5pReTMgoWPmRxfY"
-"SuKY4d6xdveVmcNTHs43K5"[label=<<table>
+
+"SuKY4d6xdveVmcNTHs43K5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Whistler</td></tr>
 <tr><td port="1">CN Tower</td></tr>
 </table>>];
 "SuKY4d6xdveVmcNTHs43K5":"0"->"VbK664EyYksjHvSRgi7FAV"
 "SuKY4d6xdveVmcNTHs43K5":"1"->"DAYwY4Lsfz7DSwFJ1Gxbft"
-"VbK664EyYksjHvSRgi7FAV"[label=<<table>
+
+"VbK664EyYksjHvSRgi7FAV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Snow</td></tr>
 <tr><td port="1">Powder</td></tr>
 <tr><td port="2">White Fluffy Stuff</td></tr>
@@ -423,7 +481,8 @@ digraph {
 "VbK664EyYksjHvSRgi7FAV":"1"->"SpHqevUk6dHuV4p7Hh9AKC"
 "VbK664EyYksjHvSRgi7FAV":"2"->"SpHqevUk6dHuV4p7Hh9AKC"
 "VbK664EyYksjHvSRgi7FAV":"3"->"DAYwY4Lsfz7DSwFJ1Gxbft"
-"SpHqevUk6dHuV4p7Hh9AKC"[label=<<table>
+
+"SpHqevUk6dHuV4p7Hh9AKC"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">A Canadian Dollar</td></tr>
 <tr><td port="1">Subway Tokens</td></tr>
 <tr><td port="2">A Computer</td></tr>
@@ -432,7 +491,8 @@ digraph {
 <tr><td port="5">Broken Ski Pole</td></tr>
 </table>>];
 "SpHqevUk6dHuV4p7Hh9AKC":"2"->"Qicho3pxwwtFXxf5ZJMuDc"
-"DAYwY4Lsfz7DSwFJ1Gxbft"[label=<<table>
+
+"DAYwY4Lsfz7DSwFJ1Gxbft"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Coffee</td></tr>
 <tr><td port="1">Tea</td></tr>
 <tr><td port="2">Breakfast</td></tr>
@@ -444,7 +504,8 @@ digraph {
 "DAYwY4Lsfz7DSwFJ1Gxbft":"2"->"4gsw2uozhbJJPDN8J3D4Ed"
 "DAYwY4Lsfz7DSwFJ1Gxbft":"3"->"NMGTr15Ec7bmQGFEXPkySZ"
 "DAYwY4Lsfz7DSwFJ1Gxbft":"4"->"4gsw2uozhbJJPDN8J3D4Ed"
-"NMGTr15Ec7bmQGFEXPkySZ"[label=<<table>
+
+"NMGTr15Ec7bmQGFEXPkySZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Small</td></tr>
 <tr><td port="1">Medium</td></tr>
 <tr><td port="2">Extra Medium</td></tr>
@@ -461,14 +522,16 @@ digraph {
 "NMGTr15Ec7bmQGFEXPkySZ":"4"->"QBSNTfrhM8aeHCmGQHjXSe"
 "NMGTr15Ec7bmQGFEXPkySZ":"6"->"GZZDXUhmLMCN5JSqMZwmLy"
 "NMGTr15Ec7bmQGFEXPkySZ":"7"->"GZZDXUhmLMCN5JSqMZwmLy"
-"QBSNTfrhM8aeHCmGQHjXSe"[label=<<table>
+
+"QBSNTfrhM8aeHCmGQHjXSe"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Caffeine</td></tr>
 <tr><td port="1">Original</td></tr>
 <tr><td port="2">Decaf</td></tr>
 </table>>];
 "QBSNTfrhM8aeHCmGQHjXSe":"1"->"GZZDXUhmLMCN5JSqMZwmLy"
 "QBSNTfrhM8aeHCmGQHjXSe":"2"->"GZZDXUhmLMCN5JSqMZwmLy"
-"GZZDXUhmLMCN5JSqMZwmLy"[label=<<table>
+
+"GZZDXUhmLMCN5JSqMZwmLy"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">No Milk</td></tr>
 <tr><td port="1">One Milk</td></tr>
 <tr><td port="2">Two Milks</td></tr>
@@ -476,7 +539,8 @@ digraph {
 "GZZDXUhmLMCN5JSqMZwmLy":"0"->"ABqNKu2sABs5pTuSiiNYz8"
 "GZZDXUhmLMCN5JSqMZwmLy":"1"->"ABqNKu2sABs5pTuSiiNYz8"
 "GZZDXUhmLMCN5JSqMZwmLy":"2"->"UsGVnWmc6hphyW5GCGnYGb"
-"ABqNKu2sABs5pTuSiiNYz8"[label=<<table>
+
+"ABqNKu2sABs5pTuSiiNYz8"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">No Sugar</td></tr>
 <tr><td port="1">One Sugar</td></tr>
 <tr><td port="2">Two Sugar</td></tr>
@@ -488,11 +552,13 @@ digraph {
 "ABqNKu2sABs5pTuSiiNYz8":"2"->"P25HtvfB6XcB3hYSgwaNk3"
 "ABqNKu2sABs5pTuSiiNYz8":"3"->"P25HtvfB6XcB3hYSgwaNk3"
 "ABqNKu2sABs5pTuSiiNYz8":"4"->"P25HtvfB6XcB3hYSgwaNk3"
-"P25HtvfB6XcB3hYSgwaNk3"[label=<<table>
+
+"P25HtvfB6XcB3hYSgwaNk3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Please pull forward to the next window</td></tr>
 </table>>];
 "P25HtvfB6XcB3hYSgwaNk3":"0"->"Qicho3pxwwtFXxf5ZJMuDc"
-"UsGVnWmc6hphyW5GCGnYGb"[label=<<table>
+
+"UsGVnWmc6hphyW5GCGnYGb"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Cow</td></tr>
 <tr><td port="1">Sheep</td></tr>
 <tr><td port="2">Goat</td></tr>
@@ -502,7 +568,8 @@ digraph {
 "UsGVnWmc6hphyW5GCGnYGb":"1"->"3TyfqDNY9LV9QbBG5CbJHQ"
 "UsGVnWmc6hphyW5GCGnYGb":"2"->"3TyfqDNY9LV9QbBG5CbJHQ"
 "UsGVnWmc6hphyW5GCGnYGb":"3"->"3TyfqDNY9LV9QbBG5CbJHQ"
-"3TyfqDNY9LV9QbBG5CbJHQ"[label=<<table>
+
+"3TyfqDNY9LV9QbBG5CbJHQ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Cow</td></tr>
 <tr><td port="1">Goat</td></tr>
 <tr><td port="2">Sheep</td></tr>
@@ -512,7 +579,8 @@ digraph {
 "3TyfqDNY9LV9QbBG5CbJHQ":"1"->"ABqNKu2sABs5pTuSiiNYz8"
 "3TyfqDNY9LV9QbBG5CbJHQ":"2"->"ABqNKu2sABs5pTuSiiNYz8"
 "3TyfqDNY9LV9QbBG5CbJHQ":"3"->"ABqNKu2sABs5pTuSiiNYz8"
-"4gsw2uozhbJJPDN8J3D4Ed"[label=<<table>
+
+"4gsw2uozhbJJPDN8J3D4Ed"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">White Bread</td></tr>
 <tr><td port="1">Whole Wheat</td></tr>
 <tr><td port="2">Pita</td></tr>
@@ -522,7 +590,8 @@ digraph {
 "4gsw2uozhbJJPDN8J3D4Ed":"1"->"KAHGVwcQSkExBXYgEyAkkR"
 "4gsw2uozhbJJPDN8J3D4Ed":"2"->"KAHGVwcQSkExBXYgEyAkkR"
 "4gsw2uozhbJJPDN8J3D4Ed":"3"->"KAHGVwcQSkExBXYgEyAkkR"
-"KAHGVwcQSkExBXYgEyAkkR"[label=<<table>
+
+"KAHGVwcQSkExBXYgEyAkkR"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Cold Cuts</td></tr>
 <tr><td port="1">Turkey</td></tr>
 <tr><td port="2">Fried Egg</td></tr>
@@ -532,13 +601,15 @@ digraph {
 "KAHGVwcQSkExBXYgEyAkkR":"1"->"P25HtvfB6XcB3hYSgwaNk3"
 "KAHGVwcQSkExBXYgEyAkkR":"2"->"P25HtvfB6XcB3hYSgwaNk3"
 "KAHGVwcQSkExBXYgEyAkkR":"3"->"P25HtvfB6XcB3hYSgwaNk3"
-"2AFXtRp5pReTMgoWPmRxfY"[label=<<table>
+
+"2AFXtRp5pReTMgoWPmRxfY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hockey Rink</td></tr>
 <tr><td port="1">Tim Hortons</td></tr>
 </table>>];
 "2AFXtRp5pReTMgoWPmRxfY":"0"->"KKcCE4E8DxF4e991ms7NRF"
 "2AFXtRp5pReTMgoWPmRxfY":"1"->"DAYwY4Lsfz7DSwFJ1Gxbft"
-"KKcCE4E8DxF4e991ms7NRF"[label=<<table>
+
+"KKcCE4E8DxF4e991ms7NRF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Players</td></tr>
 <tr><td port="1">In the Ice</td></tr>
 <tr><td port="2">Hockey Shouts</td></tr>
@@ -546,15 +617,17 @@ digraph {
 "KKcCE4E8DxF4e991ms7NRF":"0"->"6Gy9ENypbxSwC2sYpckW2d"
 "KKcCE4E8DxF4e991ms7NRF":"1"->"WN6dfe7j5r6qkTyWVuHYbP"
 "KKcCE4E8DxF4e991ms7NRF":"2"->"4qs1eTv9mUGJ1JVvJb1HzG"
-"6Gy9ENypbxSwC2sYpckW2d"[label=<<table>
+
+"6Gy9ENypbxSwC2sYpckW2d"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Scott Foster</td></tr>
 </table>>];
 
-"WN6dfe7j5r6qkTyWVuHYbP"[label=<<table>
+"WN6dfe7j5r6qkTyWVuHYbP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Deeper In The Ice</td></tr>
 </table>>];
 "WN6dfe7j5r6qkTyWVuHYbP":"0"->"WN6dfe7j5r6qkTyWVuHYbP"
-"4qs1eTv9mUGJ1JVvJb1HzG"[label=<<table>
+
+"4qs1eTv9mUGJ1JVvJb1HzG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Heckgosh</td></tr>
 <tr><td port="1">Jeepers</td></tr>
 <tr><td port="2">By my troth</td></tr>
@@ -562,84 +635,94 @@ digraph {
 <tr><td port="4">Willikers</td></tr>
 </table>>];
 
-"M8yd5BWzKiddQViYkshK54"[label=<<table>
+"M8yd5BWzKiddQViYkshK54"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Through the Wardrobe</td></tr>
 <tr><td port="1">The Magician's Attic</td></tr>
 <tr><td port="2">It's so weird that they have to die to go back to Narnia</td></tr>
 </table>>];
 
-"A8DDFcLgiJVE1W9tJL5WLj"[label=<<table>
+"A8DDFcLgiJVE1W9tJL5WLj"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yesterday</td></tr>
 <tr><td port="1">Tomorrow</td></tr>
 </table>>];
 "A8DDFcLgiJVE1W9tJL5WLj":"0"->"PrAp2fQTTcEvrkqaXE4jso"
-"PrAp2fQTTcEvrkqaXE4jso"[label=<<table>
+
+"PrAp2fQTTcEvrkqaXE4jso"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">late afternoon</td></tr>
 </table>>];
 "PrAp2fQTTcEvrkqaXE4jso":"0"->"JViMQ5PvghNeWTCNm3NS17"
-"JViMQ5PvghNeWTCNm3NS17"[label=<<table>
+
+"JViMQ5PvghNeWTCNm3NS17"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Earlier</td></tr>
 <tr><td port="1">4:50pm : Siri is laughing.  She has found a way into your home.</td></tr>
 <tr><td port="2">Later</td></tr>
 </table>>];
 "JViMQ5PvghNeWTCNm3NS17":"0"->"MAqiszrXyatdz6KnoJkQPM"
-"MAqiszrXyatdz6KnoJkQPM"[label=<<table>
+
+"MAqiszrXyatdz6KnoJkQPM"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Earlier</td></tr>
 <tr><td port="1">3:15pm : Played Mouth Sounds over Star Wars IV and it totally works</td></tr>
 <tr><td port="2">Later</td></tr>
 </table>>];
 "MAqiszrXyatdz6KnoJkQPM":"0"->"7a8PBBmbWYFaK6PT8Bm7KP"
 "MAqiszrXyatdz6KnoJkQPM":"2"->"JViMQ5PvghNeWTCNm3NS17"
-"7a8PBBmbWYFaK6PT8Bm7KP"[label=<<table>
+
+"7a8PBBmbWYFaK6PT8Bm7KP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Earlier</td></tr>
 <tr><td port="1">2:00pm: A perfect cat footprint in the middle of the living room ceiling</td></tr>
 <tr><td port="2">Later</td></tr>
 </table>>];
 "7a8PBBmbWYFaK6PT8Bm7KP":"0"->"D4ttvUWZNsyAWZAUWtCfnw"
 "7a8PBBmbWYFaK6PT8Bm7KP":"2"->"MAqiszrXyatdz6KnoJkQPM"
-"D4ttvUWZNsyAWZAUWtCfnw"[label=<<table>
+
+"D4ttvUWZNsyAWZAUWtCfnw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Earlier</td></tr>
 <tr><td port="1">1:10pm : a brief nap, still standing up</td></tr>
 <tr><td port="2">Later</td></tr>
 </table>>];
 "D4ttvUWZNsyAWZAUWtCfnw":"0"->"GvqxejBRDBEYtooaRLuY1K"
 "D4ttvUWZNsyAWZAUWtCfnw":"2"->"7a8PBBmbWYFaK6PT8Bm7KP"
-"GvqxejBRDBEYtooaRLuY1K"[label=<<table>
+
+"GvqxejBRDBEYtooaRLuY1K"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Earlier</td></tr>
 <tr><td port="1">noon: eyes closed for the solar aneclipse</td></tr>
 <tr><td port="2">Later</td></tr>
 </table>>];
 "GvqxejBRDBEYtooaRLuY1K":"0"->"7MkgQK5bteoDHPET5hmw4o"
 "GvqxejBRDBEYtooaRLuY1K":"2"->"D4ttvUWZNsyAWZAUWtCfnw"
-"7MkgQK5bteoDHPET5hmw4o"[label=<<table>
+
+"7MkgQK5bteoDHPET5hmw4o"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Earlier</td></tr>
 <tr><td port="1">11:59am: doors, where are the doors?</td></tr>
 <tr><td port="2">Later</td></tr>
 </table>>];
 "7MkgQK5bteoDHPET5hmw4o":"0"->"85QzNNtFYYwiXi8Rk2izbL"
 "7MkgQK5bteoDHPET5hmw4o":"2"->"GvqxejBRDBEYtooaRLuY1K"
-"85QzNNtFYYwiXi8Rk2izbL"[label=<<table>
+
+"85QzNNtFYYwiXi8Rk2izbL"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">11:10am: bottle of Jack and a toothbrush</td></tr>
 <tr><td port="1">Later</td></tr>
 </table>>];
 "85QzNNtFYYwiXi8Rk2izbL":"1"->"7MkgQK5bteoDHPET5hmw4o"
-"D3g8JDCco3Y2hPBo8TQVk1"[label=<<table>
+
+"D3g8JDCco3Y2hPBo8TQVk1"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">How?!</td></tr>
 </table>>];
 
-"Y8nZk3UNQnJ5iYRE992nUP"[label=<<table>
+"Y8nZk3UNQnJ5iYRE992nUP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Shut down</td></tr>
 <tr><td port="1">/</td></tr>
 </table>>];
 "Y8nZk3UNQnJ5iYRE992nUP":"1"->"Vrq5kkRDo2qXAfU1uVHUgH"
-"MssUU4ZKDsMfenXr4GqKJL"[label=<<table>
+
+"MssUU4ZKDsMfenXr4GqKJL"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Cascade</td></tr>
 <tr><td port="1">Tile</td></tr>
 <tr><td port="2">Minimize</td></tr>
 <tr><td port="3">Full Screen</td></tr>
 </table>>];
 
-"X8FCJp95Z2xmpQCeeasrwY"[label=<<table>
+"X8FCJp95Z2xmpQCeeasrwY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Park Drives</td></tr>
 <tr><td port="1">Check Space Usage</td></tr>
 <tr><td port="2">Spell Check</td></tr>
@@ -652,7 +735,8 @@ digraph {
 "X8FCJp95Z2xmpQCeeasrwY":"2"->"H9yzqbT9fXXPJAFYYam3QX"
 "X8FCJp95Z2xmpQCeeasrwY":"4"->"Je8dUL7657BiwEZW1qv47P"
 "X8FCJp95Z2xmpQCeeasrwY":"5"->"8qEqwKK1MWoMybQaw7bDCv"
-"L9HEuBW5C3YgoLDZoLrNwk"[label=<<table>
+
+"L9HEuBW5C3YgoLDZoLrNwk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Space usage:</td></tr>
 <tr><td port="1"> - Dark matter</td></tr>
 <tr><td port="2"> - Hydrogen</td></tr>
@@ -664,12 +748,12 @@ digraph {
 <tr><td port="8"> - Earth</td></tr>
 </table>>];
 
-"H9yzqbT9fXXPJAFYYam3QX"[label=<<table>
+"H9yzqbT9fXXPJAFYYam3QX"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">English</td></tr>
 <tr><td port="1">Colors</td></tr>
 </table>>];
 
-"Je8dUL7657BiwEZW1qv47P"[label=<<table>
+"Je8dUL7657BiwEZW1qv47P"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey now</td></tr>
 <tr><td port="1">Na</td></tr>
 <tr><td port="2">This</td></tr>
@@ -677,7 +761,8 @@ digraph {
 "Je8dUL7657BiwEZW1qv47P":"0"->"RTSBJ7rJ2a7JzLgzHRorTZ"
 "Je8dUL7657BiwEZW1qv47P":"1"->"WhZUpKddcGdE6UTWXC98K7"
 "Je8dUL7657BiwEZW1qv47P":"2"->"TTNTwxX9qfW47AUGVyV5vt"
-"RTSBJ7rJ2a7JzLgzHRorTZ"[label=<<table>
+
+"RTSBJ7rJ2a7JzLgzHRorTZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey now na now</td></tr>
 <tr><td port="1">Hey now</td></tr>
 <tr><td port="2">You're an all-star</td></tr>
@@ -685,43 +770,50 @@ digraph {
 "RTSBJ7rJ2a7JzLgzHRorTZ":"0"->"6WqZnQ2H54HaKPdSAfSn1J"
 "RTSBJ7rJ2a7JzLgzHRorTZ":"1"->"Rwq49brGAd1rE9Tn2M6CRw"
 "RTSBJ7rJ2a7JzLgzHRorTZ":"2"->"3DPwoX2YPY9YUyGithxSGz"
-"6WqZnQ2H54HaKPdSAfSn1J"[label=<<table>
+
+"6WqZnQ2H54HaKPdSAfSn1J"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Sing "This Corrosion" to me</td></tr>
 </table>>];
 
-"Rwq49brGAd1rE9Tn2M6CRw"[label=<<table>
+"Rwq49brGAd1rE9Tn2M6CRw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Don't dream it's over</td></tr>
 </table>>];
 
-"3DPwoX2YPY9YUyGithxSGz"[label=<<table>
+"3DPwoX2YPY9YUyGithxSGz"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Get your game on, go play</td></tr>
 </table>>];
 
-"WhZUpKddcGdE6UTWXC98K7"[label=<<table>
+"WhZUpKddcGdE6UTWXC98K7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "WhZUpKddcGdE6UTWXC98K7":"0"->"FhWiXhbMk9ScyxdEu6EUrf"
-"FhWiXhbMk9ScyxdEu6EUrf"[label=<<table>
+
+"FhWiXhbMk9ScyxdEu6EUrf"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "FhWiXhbMk9ScyxdEu6EUrf":"0"->"FNVE3jSpZhg5586beBx3we"
-"FNVE3jSpZhg5586beBx3we"[label=<<table>
+
+"FNVE3jSpZhg5586beBx3we"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "FNVE3jSpZhg5586beBx3we":"0"->"7LAQ91BQfZ45ddobk1jXeM"
-"7LAQ91BQfZ45ddobk1jXeM"[label=<<table>
+
+"7LAQ91BQfZ45ddobk1jXeM"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "7LAQ91BQfZ45ddobk1jXeM":"0"->"MiVNoR9YncWdp9otz7URmr"
-"MiVNoR9YncWdp9otz7URmr"[label=<<table>
+
+"MiVNoR9YncWdp9otz7URmr"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "MiVNoR9YncWdp9otz7URmr":"0"->"K4Sa1m9d4PyLfwtNSh8338"
-"K4Sa1m9d4PyLfwtNSh8338"[label=<<table>
+
+"K4Sa1m9d4PyLfwtNSh8338"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "K4Sa1m9d4PyLfwtNSh8338":"0"->"67R37SxJZcnG2G5rgQYnZh"
-"67R37SxJZcnG2G5rgQYnZh"[label=<<table>
+
+"67R37SxJZcnG2G5rgQYnZh"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 <tr><td port="1">na</td></tr>
 <tr><td port="2">na</td></tr>
@@ -729,100 +821,114 @@ digraph {
 "67R37SxJZcnG2G5rgQYnZh":"0"->"XPxs9i3otrgpfFxUVpi2aL"
 "67R37SxJZcnG2G5rgQYnZh":"1"->"JqEZXzd5dgL8mmY2Fay4U5"
 "67R37SxJZcnG2G5rgQYnZh":"2"->"8YfZoEW68BLXc9dagqChzB"
-"XPxs9i3otrgpfFxUVpi2aL"[label=<<table>
+
+"XPxs9i3otrgpfFxUVpi2aL"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Batman!</td></tr>
 </table>>];
 
-"JqEZXzd5dgL8mmY2Fay4U5"[label=<<table>
+"JqEZXzd5dgL8mmY2Fay4U5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 </table>>];
 "JqEZXzd5dgL8mmY2Fay4U5":"0"->"HdPqiQvqcBb1cxPiBzBMr9"
-"HdPqiQvqcBb1cxPiBzBMr9"[label=<<table>
+
+"HdPqiQvqcBb1cxPiBzBMr9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">na</td></tr>
 <tr><td port="1">na</td></tr>
 </table>>];
 "HdPqiQvqcBb1cxPiBzBMr9":"0"->"BgttiFPb6MAPGUMLzmeJe9"
 "HdPqiQvqcBb1cxPiBzBMr9":"1"->"R9vmdvcjfa6RRKS18Xxo1X"
-"BgttiFPb6MAPGUMLzmeJe9"[label=<<table>
+
+"BgttiFPb6MAPGUMLzmeJe9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Katamari Damacy!</td></tr>
 </table>>];
 
-"R9vmdvcjfa6RRKS18Xxo1X"[label=<<table>
+"R9vmdvcjfa6RRKS18Xxo1X"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Land of 1,000 dances</td></tr>
 <tr><td port="1">na</td></tr>
 </table>>];
 "R9vmdvcjfa6RRKS18Xxo1X":"1"->"R9vmdvcjfa6RRKS18Xxo1X"
-"8YfZoEW68BLXc9dagqChzB"[label=<<table>
+
+"8YfZoEW68BLXc9dagqChzB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey</td></tr>
 </table>>];
 "8YfZoEW68BLXc9dagqChzB":"0"->"4PUxUgPpe2ETh1ry8BUAMc"
-"4PUxUgPpe2ETh1ry8BUAMc"[label=<<table>
+
+"4PUxUgPpe2ETh1ry8BUAMc"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hey</td></tr>
 </table>>];
 "4PUxUgPpe2ETh1ry8BUAMc":"0"->"EsMo9iCAVd8Wg4rzaxBMxw"
-"EsMo9iCAVd8Wg4rzaxBMxw"[label=<<table>
+
+"EsMo9iCAVd8Wg4rzaxBMxw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Goodbye</td></tr>
 </table>>];
 
-"TTNTwxX9qfW47AUGVyV5vt"[label=<<table>
+"TTNTwxX9qfW47AUGVyV5vt"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">is</td></tr>
 </table>>];
 "TTNTwxX9qfW47AUGVyV5vt":"0"->"YA91kaDwoQP3PSsyus8ZaM"
-"YA91kaDwoQP3PSsyus8ZaM"[label=<<table>
+
+"YA91kaDwoQP3PSsyus8ZaM"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">the</td></tr>
 <tr><td port="1">a</td></tr>
 </table>>];
 "YA91kaDwoQP3PSsyus8ZaM":"0"->"5XBeekSeDvhv8DSzzQRBmk"
 "YA91kaDwoQP3PSsyus8ZaM":"1"->"WG3SxFA2AWpx4AR6QPGq5f"
-"5XBeekSeDvhv8DSzzQRBmk"[label=<<table>
+
+"5XBeekSeDvhv8DSzzQRBmk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">story of a girl</td></tr>
 <tr><td port="1">song that doesn't end</td></tr>
 </table>>];
 "5XBeekSeDvhv8DSzzQRBmk":"0"->"4GK99ofSXTdfKkaDoB96AY"
 "5XBeekSeDvhv8DSzzQRBmk":"1"->"21tqmU9s694zmaGReCxTTk"
-"4GK99ofSXTdfKkaDoB96AY"[label=<<table>
+
+"4GK99ofSXTdfKkaDoB96AY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">who cried a river and drowned the whole world</td></tr>
 </table>>];
 
-"21tqmU9s694zmaGReCxTTk"[label=<<table>
+"21tqmU9s694zmaGReCxTTk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">This is the song that doesn't end</td></tr>
 </table>>];
 "21tqmU9s694zmaGReCxTTk":"0"->"QHRAApJ3eiRZQ4AUNyoNVf"
-"QHRAApJ3eiRZQ4AUNyoNVf"[label=<<table>
+
+"QHRAApJ3eiRZQ4AUNyoNVf"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yes, it goes on and on, my friend</td></tr>
 </table>>];
 "QHRAApJ3eiRZQ4AUNyoNVf":"0"->"Qepp42ZMZSP5N3K3jxQwTX"
-"Qepp42ZMZSP5N3K3jxQwTX"[label=<<table>
+
+"Qepp42ZMZSP5N3K3jxQwTX"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Some people started singing, it not knowing what it was,</td></tr>
 </table>>];
 "Qepp42ZMZSP5N3K3jxQwTX":"0"->"Ch7LqdYueucL9qAaFLNn1P"
-"Ch7LqdYueucL9qAaFLNn1P"[label=<<table>
+
+"Ch7LqdYueucL9qAaFLNn1P"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">And they'll continue singing it forever just because</td></tr>
 </table>>];
 "Ch7LqdYueucL9qAaFLNn1P":"0"->"21tqmU9s694zmaGReCxTTk"
-"WG3SxFA2AWpx4AR6QPGq5f"[label=<<table>
+
+"WG3SxFA2AWpx4AR6QPGq5f"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">story all about how</td></tr>
 </table>>];
 "WG3SxFA2AWpx4AR6QPGq5f":"0"->"GxSC4QEPTo6evffKWgdoy"
-"GxSC4QEPTo6evffKWgdoy"[label=<<table>
+
+"GxSC4QEPTo6evffKWgdoy"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">my life got flipped, turned upside down</td></tr>
 </table>>];
 
-"8qEqwKK1MWoMybQaw7bDCv"[label=<<table>
+"8qEqwKK1MWoMybQaw7bDCv"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">apt-get install /dev/null</td></tr>
 <tr><td port="1">brew install apt-get</td></tr>
 <tr><td port="2">/usr/local/bin/wine xen-hypervisor.exe</td></tr>
 <tr><td port="3">source .bash_history</td></tr>
 <tr><td port="4">rm -rf $DIRECTROY/*</td></tr>
-<tr><td port="5">:(){:|:%26};:</td></tr>
-<tr><td port="6">echo "source .bashrc" %3E%3E .bashrc</td></tr>
+<tr><td port="5">:(){:|:&amp;};:</td></tr>
+<tr><td port="6">echo "source .bashrc" &gt;&gt; .bashrc</td></tr>
 <tr><td port="7">alias gcc=php</td></tr>
 </table>>];
 
-"XcZed45twyYouTWHTswmEg"[label=<<table>
+"XcZed45twyYouTWHTswmEg"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Twenty Questions</td></tr>
 <tr><td port="1">Rock Paper Scissors</td></tr>
-<tr><td port="2">D%26D</td></tr>
+<tr><td port="2">D&amp;D</td></tr>
 <tr><td port="3">ADVENT.EXE</td></tr>
 <tr><td port="4">Hoverboard</td></tr>
 <tr><td port="5">Mornington Crescent</td></tr>
@@ -832,81 +938,96 @@ digraph {
 "XcZed45twyYouTWHTswmEg":"2"->"RHNTothYzr6ZJr6rBMhkk7"
 "XcZed45twyYouTWHTswmEg":"3"->"GpAG42AhmWj3V91J6PEW4V"
 "XcZed45twyYouTWHTswmEg":"5"->"P7zoUhXAEfxwZEcWzzRieZ"
-"UMqkBDkhdDfN1SrQihM6Jh"[label=<<table>
+
+"UMqkBDkhdDfN1SrQihM6Jh"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Let's play twenty questions!</td></tr>
 </table>>];
 "UMqkBDkhdDfN1SrQihM6Jh":"0"->"2HB1Hv4zkdhQgnCE2DqQHS"
-"2HB1Hv4zkdhQgnCE2DqQHS"[label=<<table>
+
+"2HB1Hv4zkdhQgnCE2DqQHS"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Think of an object.</td></tr>
 <tr><td port="1">Ok</td></tr>
 </table>>];
 "2HB1Hv4zkdhQgnCE2DqQHS":"1"->"CidmX4MLwoB93ZRBynDRF"
-"CidmX4MLwoB93ZRBynDRF"[label=<<table>
+
+"CidmX4MLwoB93ZRBynDRF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it an animal, vegetable, or mineral?</td></tr>
 <tr><td port="1">Yes</td></tr>
 <tr><td port="2">No</td></tr>
 </table>>];
 "CidmX4MLwoB93ZRBynDRF":"1"->"Tu19J62X2GeTW8oAStGDue"
 "CidmX4MLwoB93ZRBynDRF":"2"->"KZw95puXEK4ceRYhZ3cqMP"
-"Tu19J62X2GeTW8oAStGDue"[label=<<table>
+
+"Tu19J62X2GeTW8oAStGDue"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it larger than a breadbox?</td></tr>
 <tr><td port="1">Yes, a little larger</td></tr>
 <tr><td port="2">Yes, much larger</td></tr>
 </table>>];
 "Tu19J62X2GeTW8oAStGDue":"1"->"FXys9NZkhC4fPiWUJSUD3R"
 "Tu19J62X2GeTW8oAStGDue":"2"->"Mk8Wbt6oJpnxwh1GgaHABd"
-"FXys9NZkhC4fPiWUJSUD3R"[label=<<table>
+
+"FXys9NZkhC4fPiWUJSUD3R"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a breadbox?</td></tr>
 <tr><td port="1">No.</td></tr>
 </table>>];
 "FXys9NZkhC4fPiWUJSUD3R":"1"->"Jn6LFU1v7DJK47ToNuPDkz"
-"Jn6LFU1v7DJK47ToNuPDkz"[label=<<table>
+
+"Jn6LFU1v7DJK47ToNuPDkz"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I mean, like, a larger-than-normal breadbox.</td></tr>
 <tr><td port="1">No.</td></tr>
 </table>>];
 "Jn6LFU1v7DJK47ToNuPDkz":"1"->"DnWb2BP9XPM81ZTBW5Zyin"
-"DnWb2BP9XPM81ZTBW5Zyin"[label=<<table>
+
+"DnWb2BP9XPM81ZTBW5Zyin"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Are you sure it's not a breadbox?</td></tr>
 <tr><td port="1">Yes, I'm sure.</td></tr>
 <tr><td port="2">Why are you like this?</td></tr>
 </table>>];
 "DnWb2BP9XPM81ZTBW5Zyin":"1"->"2UaSozSmcuevKDmpLk7CrK"
 "DnWb2BP9XPM81ZTBW5Zyin":"2"->"Dhe66B5uwQ9YJZdFQqs1Fp"
-"2UaSozSmcuevKDmpLk7CrK"[label=<<table>
+
+"2UaSozSmcuevKDmpLk7CrK"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Okay.</td></tr>
 </table>>];
 "2UaSozSmcuevKDmpLk7CrK":"0"->"VdppZ1ctrwZUNnJashPc3P"
-"VdppZ1ctrwZUNnJashPc3P"[label=<<table>
+
+"VdppZ1ctrwZUNnJashPc3P"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">...</td></tr>
 </table>>];
 "VdppZ1ctrwZUNnJashPc3P":"0"->"ESYWtdjHPzFSV2sntiZZNp"
-"ESYWtdjHPzFSV2sntiZZNp"[label=<<table>
+
+"ESYWtdjHPzFSV2sntiZZNp"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I give up.</td></tr>
 <tr><td port="1">Want to play again?</td></tr>
 </table>>];
 "ESYWtdjHPzFSV2sntiZZNp":"1"->"GZECJADDDt2dDXAJPnoCJ6"
-"GZECJADDDt2dDXAJPnoCJ6"[label=<<table>
+
+"GZECJADDDt2dDXAJPnoCJ6"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Yes</td></tr>
 </table>>];
 "GZECJADDDt2dDXAJPnoCJ6":"0"->"2HB1Hv4zkdhQgnCE2DqQHS"
-"Dhe66B5uwQ9YJZdFQqs1Fp"[label=<<table>
+
+"Dhe66B5uwQ9YJZdFQqs1Fp"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">C'mon, just answer.</td></tr>
 <tr><td port="1">It's not a breadbox.</td></tr>
 </table>>];
 "Dhe66B5uwQ9YJZdFQqs1Fp":"1"->"2UaSozSmcuevKDmpLk7CrK"
-"Mk8Wbt6oJpnxwh1GgaHABd"[label=<<table>
+
+"Mk8Wbt6oJpnxwh1GgaHABd"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it an okapi?</td></tr>
 <tr><td port="1">No.</td></tr>
 <tr><td port="2">No, but forget about this game, I wanna see an okapi.</td></tr>
 </table>>];
 "Mk8Wbt6oJpnxwh1GgaHABd":"1"->"8CczggGqkkfbJUq9dn8dzb"
-"8CczggGqkkfbJUq9dn8dzb"[label=<<table>
+
+"8CczggGqkkfbJUq9dn8dzb"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a pronghorn?</td></tr>
 <tr><td port="1">No.</td></tr>
 <tr><td port="2">No, but show me some pronghorn pictures!</td></tr>
 </table>>];
 "8CczggGqkkfbJUq9dn8dzb":"1"->"M6zoSjqW9rVRDWoUBpo9hV"
-"M6zoSjqW9rVRDWoUBpo9hV"[label=<<table>
+
+"M6zoSjqW9rVRDWoUBpo9hV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it an eland?</td></tr>
 <tr><td port="1">It's not that either.</td></tr>
 <tr><td port="2">No, but I wanna see one of those now.</td></tr>
@@ -914,26 +1035,30 @@ digraph {
 </table>>];
 "M6zoSjqW9rVRDWoUBpo9hV":"1"->"PFA4ndHPNvywsRBRsAUSL3"
 "M6zoSjqW9rVRDWoUBpo9hV":"3"->"LZQVhzZkt14yzwzV8AAWRS"
-"PFA4ndHPNvywsRBRsAUSL3"[label=<<table>
+
+"PFA4ndHPNvywsRBRsAUSL3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">What about a—</td></tr>
 <tr><td port="1">Are you going to guess another ungulate? It's not an ungulate.</td></tr>
 </table>>];
 "PFA4ndHPNvywsRBRsAUSL3":"1"->"SnCz439JGeyg23o7sFYDUu"
-"SnCz439JGeyg23o7sFYDUu"[label=<<table>
+
+"SnCz439JGeyg23o7sFYDUu"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Does it have a hard metal shell?</td></tr>
 <tr><td port="1">Yes.</td></tr>
 <tr><td port="2">I'm not saying.</td></tr>
 </table>>];
 "SnCz439JGeyg23o7sFYDUu":"1"->"S2qdELqi4j2TMvAmxGFyeF"
 "SnCz439JGeyg23o7sFYDUu":"2"->"S2qdELqi4j2TMvAmxGFyeF"
-"S2qdELqi4j2TMvAmxGFyeF"[label=<<table>
+
+"S2qdELqi4j2TMvAmxGFyeF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a two-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">No, but you're very close.</td></tr>
 <tr><td port="2">Yes! How did you guess?!</td></tr>
 </table>>];
 "S2qdELqi4j2TMvAmxGFyeF":"1"->"Li9QBvzJADDiHiZNy2YUUw"
 "S2qdELqi4j2TMvAmxGFyeF":"2"->"9HrYmqyEgxyyxejieNm3z3"
-"Li9QBvzJADDiHiZNy2YUUw"[label=<<table>
+
+"Li9QBvzJADDiHiZNy2YUUw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.95-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 <tr><td port="2">Higher</td></tr>
@@ -942,12 +1067,14 @@ digraph {
 "Li9QBvzJADDiHiZNy2YUUw":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
 "Li9QBvzJADDiHiZNy2YUUw":"2"->"GRjepny9DVgx7YXe9K5kWX"
 "Li9QBvzJADDiHiZNy2YUUw":"3"->"JqvVMHDkSo4p4PKubD2iE7"
-"BGqzhcgK9HefTS4KvzPcUJ"[label=<<table>
+
+"BGqzhcgK9HefTS4KvzPcUJ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hooray! Want to play again?</td></tr>
 <tr><td port="1">Yes</td></tr>
 </table>>];
 "BGqzhcgK9HefTS4KvzPcUJ":"1"->"2HB1Hv4zkdhQgnCE2DqQHS"
-"GRjepny9DVgx7YXe9K5kWX"[label=<<table>
+
+"GRjepny9DVgx7YXe9K5kWX"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.97-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 <tr><td port="2">Lower</td></tr>
@@ -956,24 +1083,28 @@ digraph {
 "GRjepny9DVgx7YXe9K5kWX":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
 "GRjepny9DVgx7YXe9K5kWX":"2"->"QbotYpj1Anb8aSF3MusxEt"
 "GRjepny9DVgx7YXe9K5kWX":"3"->"6ryL6p4DuDGr1apFWJA1ho"
-"QbotYpj1Anb8aSF3MusxEt"[label=<<table>
+
+"QbotYpj1Anb8aSF3MusxEt"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.96-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 </table>>];
 "QbotYpj1Anb8aSF3MusxEt":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
-"6ryL6p4DuDGr1apFWJA1ho"[label=<<table>
+
+"6ryL6p4DuDGr1apFWJA1ho"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.99-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 <tr><td port="2">Lower</td></tr>
 </table>>];
 "6ryL6p4DuDGr1apFWJA1ho":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
 "6ryL6p4DuDGr1apFWJA1ho":"2"->"U7yYm9648KEgMXpco5eMPJ"
-"U7yYm9648KEgMXpco5eMPJ"[label=<<table>
+
+"U7yYm9648KEgMXpco5eMPJ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.98-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 </table>>];
 "U7yYm9648KEgMXpco5eMPJ":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
-"JqvVMHDkSo4p4PKubD2iE7"[label=<<table>
+
+"JqvVMHDkSo4p4PKubD2iE7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.93-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 <tr><td port="2">Lower</td></tr>
@@ -982,7 +1113,8 @@ digraph {
 "JqvVMHDkSo4p4PKubD2iE7":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
 "JqvVMHDkSo4p4PKubD2iE7":"2"->"NVzZGqLVZR5eGTe8A1Jdrv"
 "JqvVMHDkSo4p4PKubD2iE7":"3"->"GaAYcz5AUe8murPFcwGRze"
-"NVzZGqLVZR5eGTe8A1Jdrv"[label=<<table>
+
+"NVzZGqLVZR5eGTe8A1Jdrv"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.91-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 <tr><td port="2">Higher</td></tr>
@@ -991,30 +1123,36 @@ digraph {
 "NVzZGqLVZR5eGTe8A1Jdrv":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
 "NVzZGqLVZR5eGTe8A1Jdrv":"2"->"RgenVnkWw42NDAQbBUqx9S"
 "NVzZGqLVZR5eGTe8A1Jdrv":"3"->"Wnj86SuDetTBF6cFJJs5uV"
-"RgenVnkWw42NDAQbBUqx9S"[label=<<table>
+
+"RgenVnkWw42NDAQbBUqx9S"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.92-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 </table>>];
 "RgenVnkWw42NDAQbBUqx9S":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
-"Wnj86SuDetTBF6cFJJs5uV"[label=<<table>
+
+"Wnj86SuDetTBF6cFJJs5uV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">There is no known object which matches those criteria.</td></tr>
 <tr><td port="1">Sorry :(</td></tr>
 </table>>];
 "Wnj86SuDetTBF6cFJJs5uV":"1"->"HiPmB8gRFrj7HfZ4538yT7"
-"HiPmB8gRFrj7HfZ4538yT7"[label=<<table>
+
+"HiPmB8gRFrj7HfZ4538yT7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Want to play again?</td></tr>
 </table>>];
 "HiPmB8gRFrj7HfZ4538yT7":"0"->"GZECJADDDt2dDXAJPnoCJ6"
-"GaAYcz5AUe8murPFcwGRze"[label=<<table>
+
+"GaAYcz5AUe8murPFcwGRze"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it a 1.94-ton steel drum full of creamed corn?</td></tr>
 <tr><td port="1">Yes!</td></tr>
 </table>>];
 "GaAYcz5AUe8murPFcwGRze":"1"->"BGqzhcgK9HefTS4KvzPcUJ"
-"9HrYmqyEgxyyxejieNm3z3"[label=<<table>
+
+"9HrYmqyEgxyyxejieNm3z3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">:)</td></tr>
 </table>>];
 "9HrYmqyEgxyyxejieNm3z3":"0"->"HiPmB8gRFrj7HfZ4538yT7"
-"LZQVhzZkt14yzwzV8AAWRS"[label=<<table>
+
+"LZQVhzZkt14yzwzV8AAWRS"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Okapi</td></tr>
 <tr><td port="1">Pronghorn</td></tr>
 <tr><td port="2">Eland</td></tr>
@@ -1023,43 +1161,50 @@ digraph {
 <tr><td port="5">Ibex</td></tr>
 </table>>];
 
-"KZw95puXEK4ceRYhZ3cqMP"[label=<<table>
+"KZw95puXEK4ceRYhZ3cqMP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Is it entropy?</td></tr>
 <tr><td port="1">Wait, which kind?</td></tr>
 </table>>];
 "KZw95puXEK4ceRYhZ3cqMP":"1"->"GC8txShFRP4itU4T7NBCg3"
-"GC8txShFRP4itU4T7NBCg3"[label=<<table>
+
+"GC8txShFRP4itU4T7NBCg3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Of what?</td></tr>
 </table>>];
 "GC8txShFRP4itU4T7NBCg3":"0"->"KUUq7zYDjQZRqXY2zUzftB"
-"KUUq7zYDjQZRqXY2zUzftB"[label=<<table>
+
+"KUUq7zYDjQZRqXY2zUzftB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Entropy. Do you mean the information kind or the physics kind?</td></tr>
 <tr><td port="1">Information</td></tr>
 <tr><td port="2">Physics</td></tr>
 </table>>];
 "KUUq7zYDjQZRqXY2zUzftB":"1"->"2VXv7bZeNR9XNqBS18ECKd"
 "KUUq7zYDjQZRqXY2zUzftB":"2"->"2VXv7bZeNR9XNqBS18ECKd"
-"2VXv7bZeNR9XNqBS18ECKd"[label=<<table>
+
+"2VXv7bZeNR9XNqBS18ECKd"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Ok. Is it ... wait a minute. Did we switch places?</td></tr>
 <tr><td port="1">What?</td></tr>
 </table>>];
 "2VXv7bZeNR9XNqBS18ECKd":"1"->"6S32ai2kEKgxwdiJWR2NDk"
-"6S32ai2kEKgxwdiJWR2NDk"[label=<<table>
+
+"6S32ai2kEKgxwdiJWR2NDk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I'm pretty sure you were asking the questions before.</td></tr>
 <tr><td port="1">Uhh.</td></tr>
 </table>>];
 "6S32ai2kEKgxwdiJWR2NDk":"1"->"Q4bNiijMTyqwAs8DQTS4SG"
-"Q4bNiijMTyqwAs8DQTS4SG"[label=<<table>
+
+"Q4bNiijMTyqwAs8DQTS4SG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Let's just start over.</td></tr>
 <tr><td port="1">Ok.</td></tr>
 </table>>];
 "Q4bNiijMTyqwAs8DQTS4SG":"1"->"2HB1Hv4zkdhQgnCE2DqQHS"
-"6dEBSgN7z1BVKHUXvWsFNL"[label=<<table>
+
+"6dEBSgN7z1BVKHUXvWsFNL"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Ok, on three.</td></tr>
 <tr><td port="1">Ready</td></tr>
 </table>>];
 "6dEBSgN7z1BVKHUXvWsFNL":"1"->"CD78oL5HEpZ5Q47vVFe85G"
-"CD78oL5HEpZ5Q47vVFe85G"[label=<<table>
+
+"CD78oL5HEpZ5Q47vVFe85G"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1068,13 +1213,15 @@ digraph {
 "CD78oL5HEpZ5Q47vVFe85G":"1"->"TNMQ2gC6gi4Xf72HWBVptT"
 "CD78oL5HEpZ5Q47vVFe85G":"2"->"4Jwo8cuHrGUjueopCneu5J"
 "CD78oL5HEpZ5Q47vVFe85G":"3"->"N7Y4AMDhaiSfzSKTrYjm18"
-"TNMQ2gC6gi4Xf72HWBVptT"[label=<<table>
+
+"TNMQ2gC6gi4Xf72HWBVptT"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">Hey, tie game! Again?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "TNMQ2gC6gi4Xf72HWBVptT":"2"->"B9K3SjCPemTqcpDajkuD5S"
-"B9K3SjCPemTqcpDajkuD5S"[label=<<table>
+
+"B9K3SjCPemTqcpDajkuD5S"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1083,13 +1230,15 @@ digraph {
 "B9K3SjCPemTqcpDajkuD5S":"1"->"UUHTYeN7eUPK1ZqE1qTyb2"
 "B9K3SjCPemTqcpDajkuD5S":"2"->"9k53PZWx4ETHNVJqNcgxwk"
 "B9K3SjCPemTqcpDajkuD5S":"3"->"J2vXnAnTKrSthtaexz3qkm"
-"UUHTYeN7eUPK1ZqE1qTyb2"[label=<<table>
+
+"UUHTYeN7eUPK1ZqE1qTyb2"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">Wow, what a coincidence!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "UUHTYeN7eUPK1ZqE1qTyb2":"2"->"U7RbvChpsjUnrky9YXz7B1"
-"U7RbvChpsjUnrky9YXz7B1"[label=<<table>
+
+"U7RbvChpsjUnrky9YXz7B1"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1098,13 +1247,15 @@ digraph {
 "U7RbvChpsjUnrky9YXz7B1":"1"->"YKz4BV8Bmfe48RmdmuiZgP"
 "U7RbvChpsjUnrky9YXz7B1":"2"->"23583gWVQ4xgbQ35p3dFPs"
 "U7RbvChpsjUnrky9YXz7B1":"3"->"HkHBj8jtQD4ngMrmGKo3d3"
-"YKz4BV8Bmfe48RmdmuiZgP"[label=<<table>
+
+"YKz4BV8Bmfe48RmdmuiZgP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">Same again! What are the odds?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "YKz4BV8Bmfe48RmdmuiZgP":"2"->"DzFA2diRSw4nhemN7MSb7s"
-"DzFA2diRSw4nhemN7MSb7s"[label=<<table>
+
+"DzFA2diRSw4nhemN7MSb7s"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1113,13 +1264,15 @@ digraph {
 "DzFA2diRSw4nhemN7MSb7s":"1"->"Hsb9Vx47g2xMA4V85VD8hB"
 "DzFA2diRSw4nhemN7MSb7s":"2"->"HkUqkZYhYDMbwVwqPEPUdk"
 "DzFA2diRSw4nhemN7MSb7s":"3"->"nDxFvahbrzvH29GeSqqn1"
-"Hsb9Vx47g2xMA4V85VD8hB"[label=<<table>
+
+"Hsb9Vx47g2xMA4V85VD8hB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">Ok, this is getting weird.</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "Hsb9Vx47g2xMA4V85VD8hB":"2"->"D5ePpg2UR5rQsG1CbqshcG"
-"D5ePpg2UR5rQsG1CbqshcG"[label=<<table>
+
+"D5ePpg2UR5rQsG1CbqshcG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1128,13 +1281,15 @@ digraph {
 "D5ePpg2UR5rQsG1CbqshcG":"1"->"PYUMcqR2ctQttAtbCteSa5"
 "D5ePpg2UR5rQsG1CbqshcG":"2"->"UTnRradbFeAfAAPJHJyUCj"
 "D5ePpg2UR5rQsG1CbqshcG":"3"->"8rjBj6ktLSzvfrsP7PafH"
-"PYUMcqR2ctQttAtbCteSa5"[label=<<table>
+
+"PYUMcqR2ctQttAtbCteSa5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">Are you hacking the javascript?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "PYUMcqR2ctQttAtbCteSa5":"2"->"XdFJcqMwTRgm9FALZ8n2vM"
-"XdFJcqMwTRgm9FALZ8n2vM"[label=<<table>
+
+"XdFJcqMwTRgm9FALZ8n2vM"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1143,13 +1298,15 @@ digraph {
 "XdFJcqMwTRgm9FALZ8n2vM":"1"->"21K2EwaAheUt2v4SHgqVcw"
 "XdFJcqMwTRgm9FALZ8n2vM":"2"->"G5gZKcQ5j3iYg5bDqqVR36"
 "XdFJcqMwTRgm9FALZ8n2vM":"3"->"MHywRAANDReaZcUW1hdE1b"
-"21K2EwaAheUt2v4SHgqVcw"[label=<<table>
+
+"21K2EwaAheUt2v4SHgqVcw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">How do you keep picking the same thing?!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "21K2EwaAheUt2v4SHgqVcw":"2"->"ABi2sqMbe76pCczx55V6B8"
-"ABi2sqMbe76pCczx55V6B8"[label=<<table>
+
+"ABi2sqMbe76pCczx55V6B8"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1158,13 +1315,15 @@ digraph {
 "ABi2sqMbe76pCczx55V6B8":"1"->"B68RzCaw1zRBLNkgKZPRkd"
 "ABi2sqMbe76pCczx55V6B8":"2"->"AUYHTcZjjjpt7YpZqGsQ9a"
 "ABi2sqMbe76pCczx55V6B8":"3"->"PgRrLqjUSoqCny3y1LsMNn"
-"B68RzCaw1zRBLNkgKZPRkd"[label=<<table>
+
+"B68RzCaw1zRBLNkgKZPRkd"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Rock!</td></tr>
 <tr><td port="1">Whatever.</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "B68RzCaw1zRBLNkgKZPRkd":"2"->"BtKHMpUDktaf6fMGU9GkaK"
-"BtKHMpUDktaf6fMGU9GkaK"[label=<<table>
+
+"BtKHMpUDktaf6fMGU9GkaK"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">3 … 2 … 1 …</td></tr>
 <tr><td port="1">Rock</td></tr>
 <tr><td port="2">Paper</td></tr>
@@ -1174,113 +1333,132 @@ digraph {
 "BtKHMpUDktaf6fMGU9GkaK":"1"->"KmjUb61QPqQUoMT9e5fa4Z"
 "BtKHMpUDktaf6fMGU9GkaK":"2"->"Vv5MAmKZaMUoPHRtTN1vEt"
 "BtKHMpUDktaf6fMGU9GkaK":"3"->"CxtPqSiN9igvwHAWJppaof"
-"KmjUb61QPqQUoMT9e5fa4Z"[label=<<table>
+
+"KmjUb61QPqQUoMT9e5fa4Z"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Rock!</td></tr>
 <tr><td port="1">Another Tie!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "KmjUb61QPqQUoMT9e5fa4Z":"2"->"BtKHMpUDktaf6fMGU9GkaK"
-"Vv5MAmKZaMUoPHRtTN1vEt"[label=<<table>
+
+"Vv5MAmKZaMUoPHRtTN1vEt"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Paper!</td></tr>
 <tr><td port="1">Another Tie!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "Vv5MAmKZaMUoPHRtTN1vEt":"2"->"BtKHMpUDktaf6fMGU9GkaK"
-"CxtPqSiN9igvwHAWJppaof"[label=<<table>
+
+"CxtPqSiN9igvwHAWJppaof"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Scissors!</td></tr>
 <tr><td port="1">Another Tie!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "CxtPqSiN9igvwHAWJppaof":"2"->"BtKHMpUDktaf6fMGU9GkaK"
-"AUYHTcZjjjpt7YpZqGsQ9a"[label=<<table>
+
+"AUYHTcZjjjpt7YpZqGsQ9a"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">Whatever.</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "AUYHTcZjjjpt7YpZqGsQ9a":"2"->"BtKHMpUDktaf6fMGU9GkaK"
-"PgRrLqjUSoqCny3y1LsMNn"[label=<<table>
+
+"PgRrLqjUSoqCny3y1LsMNn"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">Whatever.</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "PgRrLqjUSoqCny3y1LsMNn":"2"->"BtKHMpUDktaf6fMGU9GkaK"
-"G5gZKcQ5j3iYg5bDqqVR36"[label=<<table>
+
+"G5gZKcQ5j3iYg5bDqqVR36"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">How do you keep picking the same thing?!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "G5gZKcQ5j3iYg5bDqqVR36":"2"->"ABi2sqMbe76pCczx55V6B8"
-"MHywRAANDReaZcUW1hdE1b"[label=<<table>
+
+"MHywRAANDReaZcUW1hdE1b"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">How do you keep picking the same thing?!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "MHywRAANDReaZcUW1hdE1b":"2"->"ABi2sqMbe76pCczx55V6B8"
-"UTnRradbFeAfAAPJHJyUCj"[label=<<table>
+
+"UTnRradbFeAfAAPJHJyUCj"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">Are you hacking the javascript?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "UTnRradbFeAfAAPJHJyUCj":"2"->"XdFJcqMwTRgm9FALZ8n2vM"
-"8rjBj6ktLSzvfrsP7PafH"[label=<<table>
+
+"8rjBj6ktLSzvfrsP7PafH"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">Are you hacking the javascript?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "8rjBj6ktLSzvfrsP7PafH":"2"->"XdFJcqMwTRgm9FALZ8n2vM"
-"HkUqkZYhYDMbwVwqPEPUdk"[label=<<table>
+
+"HkUqkZYhYDMbwVwqPEPUdk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">Ok, this is getting weird.</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "HkUqkZYhYDMbwVwqPEPUdk":"2"->"D5ePpg2UR5rQsG1CbqshcG"
-"nDxFvahbrzvH29GeSqqn1"[label=<<table>
+
+"nDxFvahbrzvH29GeSqqn1"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">Ok, this is getting weird.</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "nDxFvahbrzvH29GeSqqn1":"2"->"D5ePpg2UR5rQsG1CbqshcG"
-"23583gWVQ4xgbQ35p3dFPs"[label=<<table>
+
+"23583gWVQ4xgbQ35p3dFPs"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">Same again! What are the odds?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "23583gWVQ4xgbQ35p3dFPs":"2"->"DzFA2diRSw4nhemN7MSb7s"
-"HkHBj8jtQD4ngMrmGKo3d3"[label=<<table>
+
+"HkHBj8jtQD4ngMrmGKo3d3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">Same again! What are the odds?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "HkHBj8jtQD4ngMrmGKo3d3":"2"->"DzFA2diRSw4nhemN7MSb7s"
-"9k53PZWx4ETHNVJqNcgxwk"[label=<<table>
+
+"9k53PZWx4ETHNVJqNcgxwk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">Wow, what a coincidence!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "9k53PZWx4ETHNVJqNcgxwk":"2"->"U7RbvChpsjUnrky9YXz7B1"
-"J2vXnAnTKrSthtaexz3qkm"[label=<<table>
+
+"J2vXnAnTKrSthtaexz3qkm"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">Wow, what a coincidence!</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "J2vXnAnTKrSthtaexz3qkm":"2"->"U7RbvChpsjUnrky9YXz7B1"
-"4Jwo8cuHrGUjueopCneu5J"[label=<<table>
+
+"4Jwo8cuHrGUjueopCneu5J"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Paper!</td></tr>
 <tr><td port="1">Hey, tie game! Again?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "4Jwo8cuHrGUjueopCneu5J":"2"->"B9K3SjCPemTqcpDajkuD5S"
-"N7Y4AMDhaiSfzSKTrYjm18"[label=<<table>
+
+"N7Y4AMDhaiSfzSKTrYjm18"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I picked: Scissors!</td></tr>
 <tr><td port="1">Hey, tie game! Again?</td></tr>
 <tr><td port="2">Play Again</td></tr>
 </table>>];
 "N7Y4AMDhaiSfzSKTrYjm18":"2"->"B9K3SjCPemTqcpDajkuD5S"
-"RHNTothYzr6ZJr6rBMhkk7"[label=<<table>
+
+"RHNTothYzr6ZJr6rBMhkk7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Cast</td></tr>
 </table>>];
 "RHNTothYzr6ZJr6rBMhkk7":"0"->"8KdSa7DqsB29AVwttUe2pZ"
-"GpAG42AhmWj3V91J6PEW4V"[label=<<table>
+
+"GpAG42AhmWj3V91J6PEW4V"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You see a dark cave ahead, and a castle in the distance.</td></tr>
 <tr><td port="1">Cave</td></tr>
 <tr><td port="2">Cave</td></tr>
@@ -1290,14 +1468,16 @@ digraph {
 "GpAG42AhmWj3V91J6PEW4V":"1"->"GfisgrsZXzG1md7ryTACFA"
 "GpAG42AhmWj3V91J6PEW4V":"2"->"J9izX7YV7UJeGTQ5E2FGYx"
 "GpAG42AhmWj3V91J6PEW4V":"3"->"QQKexETk1FDqqhaBrn9MAa"
-"GfisgrsZXzG1md7ryTACFA"[label=<<table>
+
+"GfisgrsZXzG1md7ryTACFA"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Inside a cave. Your lamp casts a flickering light.</td></tr>
 <tr><td port="1">Go deeper</td></tr>
 <tr><td port="2">Leave</td></tr>
 </table>>];
 "GfisgrsZXzG1md7ryTACFA":"1"->"3D1DpPoue1exQchhCQE1ke"
 "GfisgrsZXzG1md7ryTACFA":"2"->"GpAG42AhmWj3V91J6PEW4V"
-"3D1DpPoue1exQchhCQE1ke"[label=<<table>
+
+"3D1DpPoue1exQchhCQE1ke"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1308,7 +1488,8 @@ digraph {
 "3D1DpPoue1exQchhCQE1ke":"2"->"3D1DpPoue1exQchhCQE1ke"
 "3D1DpPoue1exQchhCQE1ke":"3"->"3D1DpPoue1exQchhCQE1ke"
 "3D1DpPoue1exQchhCQE1ke":"4"->"3D1DpPoue1exQchhCQE1ke"
-"3y9wkMogzbNTyxyd8SvNQf"[label=<<table>
+
+"3y9wkMogzbNTyxyd8SvNQf"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1319,7 +1500,8 @@ digraph {
 "3y9wkMogzbNTyxyd8SvNQf":"2"->"P1Ve6CdwaYRPigAhDCjQtt"
 "3y9wkMogzbNTyxyd8SvNQf":"3"->"3D1DpPoue1exQchhCQE1ke"
 "3y9wkMogzbNTyxyd8SvNQf":"4"->"3D1DpPoue1exQchhCQE1ke"
-"P1Ve6CdwaYRPigAhDCjQtt"[label=<<table>
+
+"P1Ve6CdwaYRPigAhDCjQtt"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1330,7 +1512,8 @@ digraph {
 "P1Ve6CdwaYRPigAhDCjQtt":"2"->"3D1DpPoue1exQchhCQE1ke"
 "P1Ve6CdwaYRPigAhDCjQtt":"3"->"3D1DpPoue1exQchhCQE1ke"
 "P1Ve6CdwaYRPigAhDCjQtt":"4"->"3D1DpPoue1exQchhCQE1ke"
-"LrJbfNLvoZmxSyM76L1G8B"[label=<<table>
+
+"LrJbfNLvoZmxSyM76L1G8B"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1341,7 +1524,8 @@ digraph {
 "LrJbfNLvoZmxSyM76L1G8B":"2"->"3D1DpPoue1exQchhCQE1ke"
 "LrJbfNLvoZmxSyM76L1G8B":"3"->"3D1DpPoue1exQchhCQE1ke"
 "LrJbfNLvoZmxSyM76L1G8B":"4"->"3D1DpPoue1exQchhCQE1ke"
-"Cbq7bfNwNEZAMN9Q5g2ngB"[label=<<table>
+
+"Cbq7bfNwNEZAMN9Q5g2ngB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1352,7 +1536,8 @@ digraph {
 "Cbq7bfNwNEZAMN9Q5g2ngB":"2"->"3D1DpPoue1exQchhCQE1ke"
 "Cbq7bfNwNEZAMN9Q5g2ngB":"3"->"3D1DpPoue1exQchhCQE1ke"
 "Cbq7bfNwNEZAMN9Q5g2ngB":"4"->"3D1DpPoue1exQchhCQE1ke"
-"CPepboyiziMKg7qCa3DqvG"[label=<<table>
+
+"CPepboyiziMKg7qCa3DqvG"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1363,7 +1548,8 @@ digraph {
 "CPepboyiziMKg7qCa3DqvG":"2"->"3D1DpPoue1exQchhCQE1ke"
 "CPepboyiziMKg7qCa3DqvG":"3"->"3D1DpPoue1exQchhCQE1ke"
 "CPepboyiziMKg7qCa3DqvG":"4"->"L4QR5qUHU1J9gKhhf87kbV"
-"L4QR5qUHU1J9gKhhf87kbV"[label=<<table>
+
+"L4QR5qUHU1J9gKhhf87kbV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">S</td></tr>
@@ -1372,7 +1558,8 @@ digraph {
 "L4QR5qUHU1J9gKhhf87kbV":"1"->"3D1DpPoue1exQchhCQE1ke"
 "L4QR5qUHU1J9gKhhf87kbV":"2"->"VZ7osCdj7mJeD3caV3tesz"
 "L4QR5qUHU1J9gKhhf87kbV":"3"->"3D1DpPoue1exQchhCQE1ke"
-"VZ7osCdj7mJeD3caV3tesz"[label=<<table>
+
+"VZ7osCdj7mJeD3caV3tesz"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You are in a maze of twisty passages, all alike.</td></tr>
 <tr><td port="1">N</td></tr>
 <tr><td port="2">E</td></tr>
@@ -1383,7 +1570,8 @@ digraph {
 "VZ7osCdj7mJeD3caV3tesz":"2"->"3D1DpPoue1exQchhCQE1ke"
 "VZ7osCdj7mJeD3caV3tesz":"3"->"3D1DpPoue1exQchhCQE1ke"
 "VZ7osCdj7mJeD3caV3tesz":"4"->"JdmvfLX8gQBrLUc7Hk1J7Q"
-"JdmvfLX8gQBrLUc7Hk1J7Q"[label=<<table>
+
+"JdmvfLX8gQBrLUc7Hk1J7Q"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You have found the center of the maze!</td></tr>
 <tr><td port="1">It is a small, cosy room. The walls seem to glow.</td></tr>
 <tr><td port="2">In the center of a room is a plinth, on which is a nest.</td></tr>
@@ -1391,31 +1579,35 @@ digraph {
 <tr><td port="4">Examine nest</td></tr>
 </table>>];
 "JdmvfLX8gQBrLUc7Hk1J7Q":"4"->"E6KLPS45pK2FgdwfKhD2Sn"
-"E6KLPS45pK2FgdwfKhD2Sn"[label=<<table>
+
+"E6KLPS45pK2FgdwfKhD2Sn"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">There is a large multicolored egg in the nest.</td></tr>
 <tr><td port="1">Take egg</td></tr>
 </table>>];
 "E6KLPS45pK2FgdwfKhD2Sn":"1"->"TEzvusnwyKLmtVec46FWVn"
-"TEzvusnwyKLmtVec46FWVn"[label=<<table>
+
+"TEzvusnwyKLmtVec46FWVn"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">The egg cracks open in your hand, bathing you in golden light.</td></tr>
 <tr><td port="1">You feel a sense of potential, as if you may have more options now.</td></tr>
 </table>>];
 
-"J9izX7YV7UJeGTQ5E2FGYx"[label=<<table>
+"J9izX7YV7UJeGTQ5E2FGYx"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">It's pitch black. You're likely to be eaten by a grue.</td></tr>
 <tr><td port="1">Go back</td></tr>
 <tr><td port="2">Go deeper</td></tr>
 </table>>];
 "J9izX7YV7UJeGTQ5E2FGYx":"1"->"GpAG42AhmWj3V91J6PEW4V"
 "J9izX7YV7UJeGTQ5E2FGYx":"2"->"G329ebj3wTQYvh3w9YwnWe"
-"G329ebj3wTQYvh3w9YwnWe"[label=<<table>
+
+"G329ebj3wTQYvh3w9YwnWe"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You're deep in a cave. Something, possibly this very sentence, tells you it would be dangerous to go any farther.</td></tr>
 <tr><td port="1">Go back</td></tr>
 <tr><td port="2">Keep going</td></tr>
 </table>>];
 "G329ebj3wTQYvh3w9YwnWe":"1"->"J9izX7YV7UJeGTQ5E2FGYx"
 "G329ebj3wTQYvh3w9YwnWe":"2"->"4s2vajNyHgu64DH2YVCLvM"
-"4s2vajNyHgu64DH2YVCLvM"[label=<<table>
+
+"4s2vajNyHgu64DH2YVCLvM"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You've fallen in a pit.</td></tr>
 <tr><td port="1">Climb out</td></tr>
 <tr><td port="2">Call for help</td></tr>
@@ -1424,7 +1616,8 @@ digraph {
 "4s2vajNyHgu64DH2YVCLvM":"1"->"5nMoDXCGi2NBQLWVtPLqNL"
 "4s2vajNyHgu64DH2YVCLvM":"2"->"PyxbAv3gMLMJhsiDnuMJy7"
 "4s2vajNyHgu64DH2YVCLvM":"3"->"UcDvsgayjKwr8kLcmSViDR"
-"5nMoDXCGi2NBQLWVtPLqNL"[label=<<table>
+
+"5nMoDXCGi2NBQLWVtPLqNL"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You try, but the sides are too steep.</td></tr>
 <tr><td port="1">Call for help</td></tr>
 <tr><td port="2">This seems fine.</td></tr>
@@ -1433,36 +1626,40 @@ digraph {
 "5nMoDXCGi2NBQLWVtPLqNL":"1"->"PyxbAv3gMLMJhsiDnuMJy7"
 "5nMoDXCGi2NBQLWVtPLqNL":"2"->"9Qw7dMDCzruZc7viYLCsV1"
 "5nMoDXCGi2NBQLWVtPLqNL":"3"->"UcDvsgayjKwr8kLcmSViDR"
-"9Qw7dMDCzruZc7viYLCsV1"[label=<<table>
+
+"9Qw7dMDCzruZc7viYLCsV1"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">It's nice that you're coming to terms with your impending demise.</td></tr>
 <tr><td port="1">(try to resign yourself to your fate)</td></tr>
 </table>>];
 "9Qw7dMDCzruZc7viYLCsV1":"1"->"S3E8caDDjrxX7iYA4JvrKB"
-"S3E8caDDjrxX7iYA4JvrKB"[label=<<table>
+
+"S3E8caDDjrxX7iYA4JvrKB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Your musings are interrupted by a soft sound, close to you in the darkness.</td></tr>
 <tr><td port="1">Try to stage a distraction</td></tr>
 <tr><td port="2">(stay very still)</td></tr>
 </table>>];
 "S3E8caDDjrxX7iYA4JvrKB":"1"->"FyBxZXwfBCv3mMas8T7yx9"
 "S3E8caDDjrxX7iYA4JvrKB":"2"->"PsX9EMpDtojhVS8V6dHuCu"
-"FyBxZXwfBCv3mMas8T7yx9"[label=<<table>
+
+"FyBxZXwfBCv3mMas8T7yx9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You say "Look behind you! A three-headed monkey!"</td></tr>
 <tr><td port="1">You hear quiet laughter. "You really expect me to fall for THAT old trick?".</td></tr>
 <tr><td port="2">You've been eaten by a grue.</td></tr>
 </table>>];
 
-"PsX9EMpDtojhVS8V6dHuCu"[label=<<table>
+"PsX9EMpDtojhVS8V6dHuCu"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Unfortunately for you, grues have very keen senses.</td></tr>
 <tr><td port="1">You've been eaten by a grue.</td></tr>
 </table>>];
 
-"PyxbAv3gMLMJhsiDnuMJy7"[label=<<table>
+"PyxbAv3gMLMJhsiDnuMJy7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Your voice echoes through the cave.</td></tr>
 <tr><td port="1">The echoes take a long time to die away.</td></tr>
 <tr><td port="2">Wait</td></tr>
 </table>>];
 "PyxbAv3gMLMJhsiDnuMJy7":"2"->"UcDvsgayjKwr8kLcmSViDR"
-"UcDvsgayjKwr8kLcmSViDR"[label=<<table>
+
+"UcDvsgayjKwr8kLcmSViDR"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You're still in a pit.</td></tr>
 <tr><td port="1">No I'm not!</td></tr>
 <tr><td port="2">This seems fine.</td></tr>
@@ -1471,12 +1668,14 @@ digraph {
 "UcDvsgayjKwr8kLcmSViDR":"1"->"4kbzZE88iDSFskRj1Ev53h"
 "UcDvsgayjKwr8kLcmSViDR":"2"->"9Qw7dMDCzruZc7viYLCsV1"
 "UcDvsgayjKwr8kLcmSViDR":"3"->"PsX9EMpDtojhVS8V6dHuCu"
-"4kbzZE88iDSFskRj1Ev53h"[label=<<table>
+
+"4kbzZE88iDSFskRj1Ev53h"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Denial isn't just a river in Egypt.</td></tr>
 <tr><td port="1">(reevaluate your life choices)</td></tr>
 </table>>];
 "4kbzZE88iDSFskRj1Ev53h":"1"->"S3E8caDDjrxX7iYA4JvrKB"
-"QQKexETk1FDqqhaBrn9MAa"[label=<<table>
+
+"QQKexETk1FDqqhaBrn9MAa"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You're on the castle grounds.</td></tr>
 <tr><td port="1">Open door</td></tr>
 <tr><td port="2">Open door</td></tr>
@@ -1489,24 +1688,28 @@ digraph {
 "QQKexETk1FDqqhaBrn9MAa":"3"->"Cx1gjpYUivbu3o475k7y9c"
 "QQKexETk1FDqqhaBrn9MAa":"4"->"Dgi83n7XocbXPvWp6qw5FF"
 "QQKexETk1FDqqhaBrn9MAa":"5"->"GpAG42AhmWj3V91J6PEW4V"
-"RDoi6VbaVH7hrH1JvNfzdp"[label=<<table>
+
+"RDoi6VbaVH7hrH1JvNfzdp"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">It's locked.</td></tr>
 <tr><td port="1">Break it down!</td></tr>
 <tr><td port="2">Back</td></tr>
 </table>>];
 "RDoi6VbaVH7hrH1JvNfzdp":"1"->"FH7bny7gCaFYFiJ2BoJ3LY"
 "RDoi6VbaVH7hrH1JvNfzdp":"2"->"QQKexETk1FDqqhaBrn9MAa"
-"FH7bny7gCaFYFiJ2BoJ3LY"[label=<<table>
+
+"FH7bny7gCaFYFiJ2BoJ3LY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">With what? Your bare hands?</td></tr>
 <tr><td port="1">Yes</td></tr>
 </table>>];
 "FH7bny7gCaFYFiJ2BoJ3LY":"1"->"PscaKC3wC3HrhpSLdvEZcS"
-"PscaKC3wC3HrhpSLdvEZcS"[label=<<table>
+
+"PscaKC3wC3HrhpSLdvEZcS"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You bruise your fists on the heavy oak door.</td></tr>
 <tr><td port="1">Forget it</td></tr>
 </table>>];
 "PscaKC3wC3HrhpSLdvEZcS":"1"->"QQKexETk1FDqqhaBrn9MAa"
-"XChw8HZVNAFnVzQ6YbZ3Rk"[label=<<table>
+
+"XChw8HZVNAFnVzQ6YbZ3Rk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You're in the dungeon. There's a rusty clamp on the table.</td></tr>
 <tr><td port="1">You're in the dungeon. There's a table.</td></tr>
 <tr><td port="2">Get clamp</td></tr>
@@ -1514,12 +1717,14 @@ digraph {
 </table>>];
 "XChw8HZVNAFnVzQ6YbZ3Rk":"2"->"GdL9fgBzmB86RtiCESGQwU"
 "XChw8HZVNAFnVzQ6YbZ3Rk":"3"->"QQKexETk1FDqqhaBrn9MAa"
-"GdL9fgBzmB86RtiCESGQwU"[label=<<table>
+
+"GdL9fgBzmB86RtiCESGQwU"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You take the clamp.</td></tr>
 <tr><td port="1">This might come in handy.</td></tr>
 </table>>];
 "GdL9fgBzmB86RtiCESGQwU":"1"->"XChw8HZVNAFnVzQ6YbZ3Rk"
-"Cx1gjpYUivbu3o475k7y9c"[label=<<table>
+
+"Cx1gjpYUivbu3o475k7y9c"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">An old-fashioned wishing well.</td></tr>
 <tr><td port="1">Examine the sign</td></tr>
 <tr><td port="2">Wish for...</td></tr>
@@ -1532,12 +1737,14 @@ digraph {
 "Cx1gjpYUivbu3o475k7y9c":"3"->"QR4BAVtv6gBkfRwg1kWWqT"
 "Cx1gjpYUivbu3o475k7y9c":"4"->"GpFxf7xR4r1JV9HQay8DjW"
 "Cx1gjpYUivbu3o475k7y9c":"5"->"QQKexETk1FDqqhaBrn9MAa"
-"CeGGmb4DitoP3ASedei8k2"[label=<<table>
+
+"CeGGmb4DitoP3ASedei8k2"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">"Dark! Narrow! Scary! Well of Three Features"</td></tr>
 <tr><td port="1">Okay then</td></tr>
 </table>>];
 "CeGGmb4DitoP3ASedei8k2":"1"->"Cx1gjpYUivbu3o475k7y9c"
-"GwXgsVB2ZREwVjzheS6ESs"[label=<<table>
+
+"GwXgsVB2ZREwVjzheS6ESs"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You toss a coin into the well and make a wish for...</td></tr>
 <tr><td port="1">World peace</td></tr>
 <tr><td port="2">Inner peace</td></tr>
@@ -1559,40 +1766,47 @@ digraph {
 "GwXgsVB2ZREwVjzheS6ESs":"4"->"AVsdUu45JoEwh1MZwtwqNc"
 "GwXgsVB2ZREwVjzheS6ESs":"7"->"21EMS4e68rnz8jXqJXH3j3"
 "GwXgsVB2ZREwVjzheS6ESs":"13"->"Cx1gjpYUivbu3o475k7y9c"
-"QW34GaKfxZ1CczLgbbLzR5"[label=<<table>
+
+"QW34GaKfxZ1CczLgbbLzR5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">I'm just a well, can you scale it down a bit?</td></tr>
 <tr><td port="1">Okay, sorry</td></tr>
 </table>>];
 "QW34GaKfxZ1CczLgbbLzR5":"1"->"Cx1gjpYUivbu3o475k7y9c"
-"GF4Ezz8EJibikg7xyNPZoY"[label=<<table>
+
+"GF4Ezz8EJibikg7xyNPZoY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">A feeling of calm washes over you.</td></tr>
 <tr><td port="1">Ommmmmm...</td></tr>
 </table>>];
 "GF4Ezz8EJibikg7xyNPZoY":"1"->"Cx1gjpYUivbu3o475k7y9c"
-"AVsdUu45JoEwh1MZwtwqNc"[label=<<table>
+
+"AVsdUu45JoEwh1MZwtwqNc"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Really? Okay..</td></tr>
 </table>>];
 "AVsdUu45JoEwh1MZwtwqNc":"0"->"Cx1gjpYUivbu3o475k7y9c"
-"21EMS4e68rnz8jXqJXH3j3"[label=<<table>
+
+"21EMS4e68rnz8jXqJXH3j3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You hear a voice whisper 'N, E, N, N, N, W, S, W'.</td></tr>
 <tr><td port="1">Huh, interesting.</td></tr>
 </table>>];
 "21EMS4e68rnz8jXqJXH3j3":"1"->"Cx1gjpYUivbu3o475k7y9c"
-"QR4BAVtv6gBkfRwg1kWWqT"[label=<<table>
+
+"QR4BAVtv6gBkfRwg1kWWqT"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You jump in the well. You're soaked!</td></tr>
 <tr><td port="1">Climb out</td></tr>
 <tr><td port="2">Swim</td></tr>
 </table>>];
 "QR4BAVtv6gBkfRwg1kWWqT":"1"->"Cx1gjpYUivbu3o475k7y9c"
 "QR4BAVtv6gBkfRwg1kWWqT":"2"->"FD4JDPU1ztersp8z8eM3nb"
-"FD4JDPU1ztersp8z8eM3nb"[label=<<table>
+
+"FD4JDPU1ztersp8z8eM3nb"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You're inside a well.</td></tr>
 <tr><td port="1">Climb out</td></tr>
 <tr><td port="2">Just keep swimming...</td></tr>
 </table>>];
 "FD4JDPU1ztersp8z8eM3nb":"1"->"Cx1gjpYUivbu3o475k7y9c"
 "FD4JDPU1ztersp8z8eM3nb":"2"->"FD4JDPU1ztersp8z8eM3nb"
-"GpFxf7xR4r1JV9HQay8DjW"[label=<<table>
+
+"GpFxf7xR4r1JV9HQay8DjW"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You reel in the bucket. There's something shiny in the bottom.</td></tr>
 <tr><td port="1">The bucket is empty.</td></tr>
 <tr><td port="2">Examine bucket</td></tr>
@@ -1600,17 +1814,20 @@ digraph {
 </table>>];
 "GpFxf7xR4r1JV9HQay8DjW":"2"->"AL8fJZg8Tvpr9MeVMSrtLP"
 "GpFxf7xR4r1JV9HQay8DjW":"3"->"Cx1gjpYUivbu3o475k7y9c"
-"AL8fJZg8Tvpr9MeVMSrtLP"[label=<<table>
+
+"AL8fJZg8Tvpr9MeVMSrtLP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">It's a shiny gold key!</td></tr>
 <tr><td port="1">Get key</td></tr>
 </table>>];
 "AL8fJZg8Tvpr9MeVMSrtLP":"1"->"P2UUQciqPZHVgkDhn8SQrQ"
-"P2UUQciqPZHVgkDhn8SQrQ"[label=<<table>
+
+"P2UUQciqPZHVgkDhn8SQrQ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You take the key.</td></tr>
 <tr><td port="1">Back</td></tr>
 </table>>];
 "P2UUQciqPZHVgkDhn8SQrQ":"1"->"Cx1gjpYUivbu3o475k7y9c"
-"Dgi83n7XocbXPvWp6qw5FF"[label=<<table>
+
+"Dgi83n7XocbXPvWp6qw5FF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You're in the castle tower. There's a strange machine here.</td></tr>
 <tr><td port="1">You're in the castle tower. There's a C-Remover here.</td></tr>
 <tr><td port="2">Examine machine</td></tr>
@@ -1625,37 +1842,44 @@ digraph {
 "Dgi83n7XocbXPvWp6qw5FF":"5"->"G4W3gp1kAAucb2RNtwnesb"
 "Dgi83n7XocbXPvWp6qw5FF":"6"->"QDD8gM5PoBfbwy7q17GKuV"
 "Dgi83n7XocbXPvWp6qw5FF":"7"->"QQKexETk1FDqqhaBrn9MAa"
-"3F3NUPVz99xQXV7vcbwLio"[label=<<table>
+
+"3F3NUPVz99xQXV7vcbwLio"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">You see a small plaque that reads "C-Remover"</td></tr>
 <tr><td port="1">Hmm</td></tr>
 </table>>];
 "3F3NUPVz99xQXV7vcbwLio":"1"->"Dgi83n7XocbXPvWp6qw5FF"
-"8dtspVVWKcGJ8DxRGyBdCh"[label=<<table>
+
+"8dtspVVWKcGJ8DxRGyBdCh"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">The C-Remover emits a puff of smoke and converts your clamp to a lamp!</td></tr>
 <tr><td port="1">Take lamp</td></tr>
 </table>>];
 "8dtspVVWKcGJ8DxRGyBdCh":"1"->"Dgi83n7XocbXPvWp6qw5FF"
-"G4W3gp1kAAucb2RNtwnesb"[label=<<table>
+
+"G4W3gp1kAAucb2RNtwnesb"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Nothing happens.</td></tr>
 <tr><td port="1">Oh well</td></tr>
 </table>>];
 "G4W3gp1kAAucb2RNtwnesb":"1"->"Dgi83n7XocbXPvWp6qw5FF"
-"QDD8gM5PoBfbwy7q17GKuV"[label=<<table>
+
+"QDD8gM5PoBfbwy7q17GKuV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Nothing happens.</td></tr>
 <tr><td port="1">Oh well</td></tr>
 </table>>];
 "QDD8gM5PoBfbwy7q17GKuV":"1"->"Dgi83n7XocbXPvWp6qw5FF"
-"P7zoUhXAEfxwZEcWzzRieZ"[label=<<table>
+
+"P7zoUhXAEfxwZEcWzzRieZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Euston</td></tr>
 </table>>];
 "P7zoUhXAEfxwZEcWzzRieZ":"0"->"P39Jy8ZxJhPzmwmw6k9D5g"
-"P39Jy8ZxJhPzmwmw6k9D5g"[label=<<table>
+
+"P39Jy8ZxJhPzmwmw6k9D5g"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">King's Cross</td></tr>
 <tr><td port="1">Warren Street</td></tr>
 </table>>];
 "P39Jy8ZxJhPzmwmw6k9D5g":"0"->"F7sRhB7ehpbRat271171Y9"
 "P39Jy8ZxJhPzmwmw6k9D5g":"1"->"2UQpdbouoQrNMuvwGudran"
-"F7sRhB7ehpbRat271171Y9"[label=<<table>
+
+"F7sRhB7ehpbRat271171Y9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Euston</td></tr>
 <tr><td port="1">Angel</td></tr>
 <tr><td port="2">Farringdon</td></tr>
@@ -1667,19 +1891,22 @@ digraph {
 "F7sRhB7ehpbRat271171Y9":"2"->"FLtAFfVcxuhAWRyPV4SemF"
 "F7sRhB7ehpbRat271171Y9":"3"->"KBZRNaQr8H3uMaiz1d4ZZp"
 "F7sRhB7ehpbRat271171Y9":"4"->"5S7UEqjfFBAqR3e9m1UgoK"
-"XuttkcJwP3kQz6NATmoQK9"[label=<<table>
+
+"XuttkcJwP3kQz6NATmoQK9"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">King's Cross</td></tr>
 <tr><td port="1">Old Street</td></tr>
 </table>>];
 "XuttkcJwP3kQz6NATmoQK9":"0"->"F7sRhB7ehpbRat271171Y9"
 "XuttkcJwP3kQz6NATmoQK9":"1"->"K73zgPA6veS5JpS56KQukz"
-"K73zgPA6veS5JpS56KQukz"[label=<<table>
+
+"K73zgPA6veS5JpS56KQukz"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Angel</td></tr>
 <tr><td port="1">Moorgate</td></tr>
 </table>>];
 "K73zgPA6veS5JpS56KQukz":"0"->"XuttkcJwP3kQz6NATmoQK9"
 "K73zgPA6veS5JpS56KQukz":"1"->"PxseKtLQgTswt4BVxDXoga"
-"PxseKtLQgTswt4BVxDXoga"[label=<<table>
+
+"PxseKtLQgTswt4BVxDXoga"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Old Street</td></tr>
 <tr><td port="1">Liverpool Street</td></tr>
 <tr><td port="2">Monument</td></tr>
@@ -1687,7 +1914,8 @@ digraph {
 "PxseKtLQgTswt4BVxDXoga":"0"->"K73zgPA6veS5JpS56KQukz"
 "PxseKtLQgTswt4BVxDXoga":"1"->"Y27u7hJc3Vx8ebNEa9R7aS"
 "PxseKtLQgTswt4BVxDXoga":"2"->"75MG8dMJEDHyMC9X5TUTKx"
-"Y27u7hJc3Vx8ebNEa9R7aS"[label=<<table>
+
+"Y27u7hJc3Vx8ebNEa9R7aS"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Aldgate East</td></tr>
 <tr><td port="1">Aldgate</td></tr>
 <tr><td port="2">Bank</td></tr>
@@ -1697,13 +1925,15 @@ digraph {
 "Y27u7hJc3Vx8ebNEa9R7aS":"1"->"AJ5ZHBuTRWuNzX3ihZLd7h"
 "Y27u7hJc3Vx8ebNEa9R7aS":"2"->"3RhgAGfCe3gLzQ7rijFCns"
 "Y27u7hJc3Vx8ebNEa9R7aS":"3"->"PxseKtLQgTswt4BVxDXoga"
-"CyjowrpqqhWNs4jtgb1PUw"[label=<<table>
+
+"CyjowrpqqhWNs4jtgb1PUw"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Tower Hill</td></tr>
 <tr><td port="1">Liverpool Street</td></tr>
 </table>>];
 "CyjowrpqqhWNs4jtgb1PUw":"0"->"YFLi7oRSw6585gR8NfgzY5"
 "CyjowrpqqhWNs4jtgb1PUw":"1"->"Y27u7hJc3Vx8ebNEa9R7aS"
-"YFLi7oRSw6585gR8NfgzY5"[label=<<table>
+
+"YFLi7oRSw6585gR8NfgzY5"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Aldgate</td></tr>
 <tr><td port="1">Aldgate East</td></tr>
 <tr><td port="2">Monument</td></tr>
@@ -1711,13 +1941,15 @@ digraph {
 "YFLi7oRSw6585gR8NfgzY5":"0"->"AJ5ZHBuTRWuNzX3ihZLd7h"
 "YFLi7oRSw6585gR8NfgzY5":"1"->"CyjowrpqqhWNs4jtgb1PUw"
 "YFLi7oRSw6585gR8NfgzY5":"2"->"75MG8dMJEDHyMC9X5TUTKx"
-"AJ5ZHBuTRWuNzX3ihZLd7h"[label=<<table>
+
+"AJ5ZHBuTRWuNzX3ihZLd7h"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Liverpool Street</td></tr>
 <tr><td port="1">Tower Hill</td></tr>
 </table>>];
 "AJ5ZHBuTRWuNzX3ihZLd7h":"0"->"Y27u7hJc3Vx8ebNEa9R7aS"
 "AJ5ZHBuTRWuNzX3ihZLd7h":"1"->"YFLi7oRSw6585gR8NfgzY5"
-"3RhgAGfCe3gLzQ7rijFCns"[label=<<table>
+
+"3RhgAGfCe3gLzQ7rijFCns"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Liverpool Street</td></tr>
 <tr><td port="1">Waterloo</td></tr>
 <tr><td port="2">St Paul's</td></tr>
@@ -1725,7 +1957,8 @@ digraph {
 "3RhgAGfCe3gLzQ7rijFCns":"0"->"Y27u7hJc3Vx8ebNEa9R7aS"
 "3RhgAGfCe3gLzQ7rijFCns":"1"->"7ucjqQq97ebypVwhhsD4dP"
 "3RhgAGfCe3gLzQ7rijFCns":"2"->"HMPMpHd5q8PrFrDpR1kbmm"
-"7ucjqQq97ebypVwhhsD4dP"[label=<<table>
+
+"7ucjqQq97ebypVwhhsD4dP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Embankment</td></tr>
 <tr><td port="1">Bank</td></tr>
 <tr><td port="2">Southwark</td></tr>
@@ -1737,7 +1970,8 @@ digraph {
 "7ucjqQq97ebypVwhhsD4dP":"2"->"EShFo3W13W2TfLSXmQtcGh"
 "7ucjqQq97ebypVwhhsD4dP":"3"->"XWyfbKbk2HwvgjoWFc1Am7"
 "7ucjqQq97ebypVwhhsD4dP":"4"->"V9eCCZLW4nDvqJzowssdtY"
-"GbSZhgdgxCfbYAycQPMcKS"[label=<<table>
+
+"GbSZhgdgxCfbYAycQPMcKS"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Charing Cross</td></tr>
 <tr><td port="1">Temple</td></tr>
 <tr><td port="2">Waterloo</td></tr>
@@ -1747,7 +1981,8 @@ digraph {
 "GbSZhgdgxCfbYAycQPMcKS":"1"->"DrxTvLyk2KCeR4TrTqCa9o"
 "GbSZhgdgxCfbYAycQPMcKS":"2"->"7ucjqQq97ebypVwhhsD4dP"
 "GbSZhgdgxCfbYAycQPMcKS":"3"->"V9eCCZLW4nDvqJzowssdtY"
-"7dKgePK47LevmypRnm8EJi"[label=<<table>
+
+"7dKgePK47LevmypRnm8EJi"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Leicester Square</td></tr>
 <tr><td port="1">Embankment</td></tr>
 <tr><td port="2">Piccadilly Circus</td></tr>
@@ -1755,7 +1990,8 @@ digraph {
 "7dKgePK47LevmypRnm8EJi":"0"->"Th1KTPvK3Thh4AGxGgsVtR"
 "7dKgePK47LevmypRnm8EJi":"1"->"GbSZhgdgxCfbYAycQPMcKS"
 "7dKgePK47LevmypRnm8EJi":"2"->"JVEKFcwpr9juhRYUTBcrXZ"
-"Th1KTPvK3Thh4AGxGgsVtR"[label=<<table>
+
+"Th1KTPvK3Thh4AGxGgsVtR"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Tottenham Court Road</td></tr>
 <tr><td port="1">Covent Garden</td></tr>
 <tr><td port="2">Charing Cross</td></tr>
@@ -1765,7 +2001,8 @@ digraph {
 "Th1KTPvK3Thh4AGxGgsVtR":"1"->"XVcx4cUqVhRWiYUiNfonEY"
 "Th1KTPvK3Thh4AGxGgsVtR":"2"->"7dKgePK47LevmypRnm8EJi"
 "Th1KTPvK3Thh4AGxGgsVtR":"3"->"JVEKFcwpr9juhRYUTBcrXZ"
-"G8AL2T7aL4sJMRnuUpmgW3"[label=<<table>
+
+"G8AL2T7aL4sJMRnuUpmgW3"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Goodge Street</td></tr>
 <tr><td port="1">Holborn</td></tr>
 <tr><td port="2">Leicester Square</td></tr>
@@ -1775,13 +2012,15 @@ digraph {
 "G8AL2T7aL4sJMRnuUpmgW3":"1"->"N1UXgy3cdVsj5wiNMhAfbj"
 "G8AL2T7aL4sJMRnuUpmgW3":"2"->"Th1KTPvK3Thh4AGxGgsVtR"
 "G8AL2T7aL4sJMRnuUpmgW3":"3"->"J5HgSjBdFoU6FGegPL3U2s"
-"7VkLXPks5B8UZMfD8NiiXK"[label=<<table>
+
+"7VkLXPks5B8UZMfD8NiiXK"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Warren Street</td></tr>
 <tr><td port="1">Tottenham Court Road</td></tr>
 </table>>];
 "7VkLXPks5B8UZMfD8NiiXK":"0"->"2UQpdbouoQrNMuvwGudran"
 "7VkLXPks5B8UZMfD8NiiXK":"1"->"G8AL2T7aL4sJMRnuUpmgW3"
-"N1UXgy3cdVsj5wiNMhAfbj"[label=<<table>
+
+"N1UXgy3cdVsj5wiNMhAfbj"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Russell Square</td></tr>
 <tr><td port="1">Chancery Lane</td></tr>
 <tr><td port="2">Covent Garden</td></tr>
@@ -1791,13 +2030,15 @@ digraph {
 "N1UXgy3cdVsj5wiNMhAfbj":"1"->"HAgADGtU2hx2BU7H1gBRk"
 "N1UXgy3cdVsj5wiNMhAfbj":"2"->"XVcx4cUqVhRWiYUiNfonEY"
 "N1UXgy3cdVsj5wiNMhAfbj":"3"->"G8AL2T7aL4sJMRnuUpmgW3"
-"HAgADGtU2hx2BU7H1gBRk"[label=<<table>
+
+"HAgADGtU2hx2BU7H1gBRk"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Holborn</td></tr>
 <tr><td port="1">St Paul's</td></tr>
 </table>>];
 "HAgADGtU2hx2BU7H1gBRk":"0"->"N1UXgy3cdVsj5wiNMhAfbj"
 "HAgADGtU2hx2BU7H1gBRk":"1"->"HMPMpHd5q8PrFrDpR1kbmm"
-"J5HgSjBdFoU6FGegPL3U2s"[label=<<table>
+
+"J5HgSjBdFoU6FGegPL3U2s"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Warren Street</td></tr>
 <tr><td port="1">Tottenham Court Road</td></tr>
 <tr><td port="2">Piccadilly Circus</td></tr>
@@ -1811,7 +2052,8 @@ digraph {
 "J5HgSjBdFoU6FGegPL3U2s":"3"->"5Shp5szkQe87d5mhtwzeS4"
 "J5HgSjBdFoU6FGegPL3U2s":"4"->"JhKZ4yPGcbY5SdqMLf92Eh"
 "J5HgSjBdFoU6FGegPL3U2s":"5"->"Vw6JW6CQrCfMkwweJ9eixJ"
-"5Shp5szkQe87d5mhtwzeS4"[label=<<table>
+
+"5Shp5szkQe87d5mhtwzeS4"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Oxford Circus</td></tr>
 <tr><td port="1">Piccadilly Circus</td></tr>
 <tr><td port="2">Westminster</td></tr>
@@ -1825,7 +2067,8 @@ digraph {
 "5Shp5szkQe87d5mhtwzeS4":"3"->"4jwahN1sqmLvHS5vCp1Coa"
 "5Shp5szkQe87d5mhtwzeS4":"4"->"384V12cgJKK2y61Tq7N1ok"
 "5Shp5szkQe87d5mhtwzeS4":"5"->"JhKZ4yPGcbY5SdqMLf92Eh"
-"4jwahN1sqmLvHS5vCp1Coa"[label=<<table>
+
+"4jwahN1sqmLvHS5vCp1Coa"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Green Park</td></tr>
 <tr><td port="1">St James's Park</td></tr>
 <tr><td port="2">Pimlico</td></tr>
@@ -1835,36 +2078,41 @@ digraph {
 "4jwahN1sqmLvHS5vCp1Coa":"1"->"Mj9oXnYJFGyXFiwnjEAVP2"
 "4jwahN1sqmLvHS5vCp1Coa":"2"->"BZHpPyLFsXoVpd5X7d8uyP"
 "4jwahN1sqmLvHS5vCp1Coa":"3"->"9qF2w4vqr4U7YK634cdG2j"
-"Mj9oXnYJFGyXFiwnjEAVP2"[label=<<table>
+
+"Mj9oXnYJFGyXFiwnjEAVP2"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Westminster</td></tr>
 <tr><td port="1">Victoria</td></tr>
 </table>>];
 "Mj9oXnYJFGyXFiwnjEAVP2":"0"->"V9eCCZLW4nDvqJzowssdtY"
 "Mj9oXnYJFGyXFiwnjEAVP2":"1"->"4jwahN1sqmLvHS5vCp1Coa"
-"BZHpPyLFsXoVpd5X7d8uyP"[label=<<table>
+
+"BZHpPyLFsXoVpd5X7d8uyP"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Victoria</td></tr>
 <tr><td port="1">Vauxhall</td></tr>
 </table>>];
 "BZHpPyLFsXoVpd5X7d8uyP":"0"->"4jwahN1sqmLvHS5vCp1Coa"
 "BZHpPyLFsXoVpd5X7d8uyP":"1"->"GpLRoy9VZQEWzckFBCY3fY"
-"GpLRoy9VZQEWzckFBCY3fY"[label=<<table>
+
+"GpLRoy9VZQEWzckFBCY3fY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Pimlico</td></tr>
 <tr><td port="1">Easter basket</td></tr>
 </table>>];
 "GpLRoy9VZQEWzckFBCY3fY":"0"->"BZHpPyLFsXoVpd5X7d8uyP"
 "GpLRoy9VZQEWzckFBCY3fY":"1"->"VPmtR2wAEtjVCSPrSLKeWC"
-"VPmtR2wAEtjVCSPrSLKeWC"[label=<<table>
+
+"VPmtR2wAEtjVCSPrSLKeWC"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">A wicker basket is sitting on the platform. It contains a single brightly-colored egg.</td></tr>
 <tr><td port="1">Take egg.</td></tr>
 </table>>];
 
-"9qF2w4vqr4U7YK634cdG2j"[label=<<table>
+"9qF2w4vqr4U7YK634cdG2j"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Victoria</td></tr>
 <tr><td port="1">South Kensington</td></tr>
 </table>>];
 "9qF2w4vqr4U7YK634cdG2j":"0"->"4jwahN1sqmLvHS5vCp1Coa"
 "9qF2w4vqr4U7YK634cdG2j":"1"->"RwLTWAHEkQUKeHpc5kdoxY"
-"RwLTWAHEkQUKeHpc5kdoxY"[label=<<table>
+
+"RwLTWAHEkQUKeHpc5kdoxY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Knightsbridge</td></tr>
 <tr><td port="1">Sloane Square</td></tr>
 <tr><td port="2">Gloucester Road</td></tr>
@@ -1872,13 +2120,15 @@ digraph {
 "RwLTWAHEkQUKeHpc5kdoxY":"0"->"J7EYpD8mxHY9KMRSjFVhuQ"
 "RwLTWAHEkQUKeHpc5kdoxY":"1"->"9qF2w4vqr4U7YK634cdG2j"
 "RwLTWAHEkQUKeHpc5kdoxY":"2"->"H82cc5YFFn4mZTSkSBcKnU"
-"J7EYpD8mxHY9KMRSjFVhuQ"[label=<<table>
+
+"J7EYpD8mxHY9KMRSjFVhuQ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Hyde Park Corner</td></tr>
 <tr><td port="1">South Kensington</td></tr>
 </table>>];
 "J7EYpD8mxHY9KMRSjFVhuQ":"0"->"384V12cgJKK2y61Tq7N1ok"
 "J7EYpD8mxHY9KMRSjFVhuQ":"1"->"RwLTWAHEkQUKeHpc5kdoxY"
-"H82cc5YFFn4mZTSkSBcKnU"[label=<<table>
+
+"H82cc5YFFn4mZTSkSBcKnU"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">South Kensington</td></tr>
 <tr><td port="1">Earl's Court</td></tr>
 <tr><td port="2">High Street Kensington</td></tr>
@@ -1886,13 +2136,15 @@ digraph {
 "H82cc5YFFn4mZTSkSBcKnU":"0"->"RwLTWAHEkQUKeHpc5kdoxY"
 "H82cc5YFFn4mZTSkSBcKnU":"1"->"WSFbnjYhyZWnUj57dAjXE2"
 "H82cc5YFFn4mZTSkSBcKnU":"2"->"UA64cccwdA7XDJBrNvb6TT"
-"WSFbnjYhyZWnUj57dAjXE2"[label=<<table>
+
+"WSFbnjYhyZWnUj57dAjXE2"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">High Street Kensington</td></tr>
 <tr><td port="1">Gloucester Road</td></tr>
 </table>>];
 "WSFbnjYhyZWnUj57dAjXE2":"0"->"UA64cccwdA7XDJBrNvb6TT"
 "WSFbnjYhyZWnUj57dAjXE2":"1"->"H82cc5YFFn4mZTSkSBcKnU"
-"UA64cccwdA7XDJBrNvb6TT"[label=<<table>
+
+"UA64cccwdA7XDJBrNvb6TT"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Notting Hill Gate</td></tr>
 <tr><td port="1">Gloucester Road</td></tr>
 <tr><td port="2">Earl's Court</td></tr>
@@ -1900,7 +2152,8 @@ digraph {
 "UA64cccwdA7XDJBrNvb6TT":"0"->"RYnD1dAxGMy9KQGMBo1VDN"
 "UA64cccwdA7XDJBrNvb6TT":"1"->"H82cc5YFFn4mZTSkSBcKnU"
 "UA64cccwdA7XDJBrNvb6TT":"2"->"WSFbnjYhyZWnUj57dAjXE2"
-"RYnD1dAxGMy9KQGMBo1VDN"[label=<<table>
+
+"RYnD1dAxGMy9KQGMBo1VDN"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Bayswater</td></tr>
 <tr><td port="1">Queensway</td></tr>
 <tr><td port="2">High Street Kensington</td></tr>
@@ -1908,19 +2161,22 @@ digraph {
 "RYnD1dAxGMy9KQGMBo1VDN":"0"->"87ATj5XKTAuDHzhUBj1AkF"
 "RYnD1dAxGMy9KQGMBo1VDN":"1"->"EsqdPU5G6s7bouTVkEekXA"
 "RYnD1dAxGMy9KQGMBo1VDN":"2"->"UA64cccwdA7XDJBrNvb6TT"
-"87ATj5XKTAuDHzhUBj1AkF"[label=<<table>
+
+"87ATj5XKTAuDHzhUBj1AkF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Paddington</td></tr>
 <tr><td port="1">Notting Hill Gate</td></tr>
 </table>>];
 "87ATj5XKTAuDHzhUBj1AkF":"0"->"VddHRV21X6vsBdxsbN6TLR"
 "87ATj5XKTAuDHzhUBj1AkF":"1"->"RYnD1dAxGMy9KQGMBo1VDN"
-"VddHRV21X6vsBdxsbN6TLR"[label=<<table>
+
+"VddHRV21X6vsBdxsbN6TLR"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Edgware Road</td></tr>
 <tr><td port="1">Bayswater</td></tr>
 </table>>];
 "VddHRV21X6vsBdxsbN6TLR":"0"->"SoBGV1suQ9qq17Woufnxsd"
 "VddHRV21X6vsBdxsbN6TLR":"1"->"87ATj5XKTAuDHzhUBj1AkF"
-"SoBGV1suQ9qq17Woufnxsd"[label=<<table>
+
+"SoBGV1suQ9qq17Woufnxsd"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Marylebone</td></tr>
 <tr><td port="1">Baker Street</td></tr>
 <tr><td port="2">Paddington</td></tr>
@@ -1928,13 +2184,15 @@ digraph {
 "SoBGV1suQ9qq17Woufnxsd":"0"->"KDxmjEj7hak15MoSsRih84"
 "SoBGV1suQ9qq17Woufnxsd":"1"->"BqKFFkcvutR4uA5hHnikTj"
 "SoBGV1suQ9qq17Woufnxsd":"2"->"VddHRV21X6vsBdxsbN6TLR"
-"KDxmjEj7hak15MoSsRih84"[label=<<table>
+
+"KDxmjEj7hak15MoSsRih84"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Baker Street</td></tr>
 <tr><td port="1">Edgware Road</td></tr>
 </table>>];
 "KDxmjEj7hak15MoSsRih84":"0"->"BqKFFkcvutR4uA5hHnikTj"
 "KDxmjEj7hak15MoSsRih84":"1"->"SoBGV1suQ9qq17Woufnxsd"
-"BqKFFkcvutR4uA5hHnikTj"[label=<<table>
+
+"BqKFFkcvutR4uA5hHnikTj"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Great Portland Street</td></tr>
 <tr><td port="1">Regent's Park</td></tr>
 <tr><td port="2">Bond Street</td></tr>
@@ -1946,31 +2204,36 @@ digraph {
 "BqKFFkcvutR4uA5hHnikTj":"2"->"JhKZ4yPGcbY5SdqMLf92Eh"
 "BqKFFkcvutR4uA5hHnikTj":"3"->"SoBGV1suQ9qq17Woufnxsd"
 "BqKFFkcvutR4uA5hHnikTj":"4"->"KDxmjEj7hak15MoSsRih84"
-"78VYUNX57Kp7fdVMe343MJ"[label=<<table>
+
+"78VYUNX57Kp7fdVMe343MJ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Euston Square</td></tr>
 <tr><td port="1">Baker Street</td></tr>
 </table>>];
 "78VYUNX57Kp7fdVMe343MJ":"0"->"5S7UEqjfFBAqR3e9m1UgoK"
 "78VYUNX57Kp7fdVMe343MJ":"1"->"BqKFFkcvutR4uA5hHnikTj"
-"EsqdPU5G6s7bouTVkEekXA"[label=<<table>
+
+"EsqdPU5G6s7bouTVkEekXA"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Lancaster Gate</td></tr>
 <tr><td port="1">Notting Hill Gate</td></tr>
 </table>>];
 "EsqdPU5G6s7bouTVkEekXA":"0"->"GYczykaJPajaqeQbMeZo4e"
 "EsqdPU5G6s7bouTVkEekXA":"1"->"RYnD1dAxGMy9KQGMBo1VDN"
-"GYczykaJPajaqeQbMeZo4e"[label=<<table>
+
+"GYczykaJPajaqeQbMeZo4e"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Lancaster Gate</td></tr>
 <tr><td port="1">Queensway</td></tr>
 </table>>];
 "GYczykaJPajaqeQbMeZo4e":"0"->"GYczykaJPajaqeQbMeZo4e"
 "GYczykaJPajaqeQbMeZo4e":"1"->"EsqdPU5G6s7bouTVkEekXA"
-"384V12cgJKK2y61Tq7N1ok"[label=<<table>
+
+"384V12cgJKK2y61Tq7N1ok"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Green Park</td></tr>
 <tr><td port="1">Knightsbridge</td></tr>
 </table>>];
 "384V12cgJKK2y61Tq7N1ok":"0"->"5Shp5szkQe87d5mhtwzeS4"
 "384V12cgJKK2y61Tq7N1ok":"1"->"J7EYpD8mxHY9KMRSjFVhuQ"
-"JhKZ4yPGcbY5SdqMLf92Eh"[label=<<table>
+
+"JhKZ4yPGcbY5SdqMLf92Eh"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Baker Street</td></tr>
 <tr><td port="1">Oxford Circus</td></tr>
 <tr><td port="2">Green Park</td></tr>
@@ -1980,25 +2243,29 @@ digraph {
 "JhKZ4yPGcbY5SdqMLf92Eh":"1"->"J5HgSjBdFoU6FGegPL3U2s"
 "JhKZ4yPGcbY5SdqMLf92Eh":"2"->"5Shp5szkQe87d5mhtwzeS4"
 "JhKZ4yPGcbY5SdqMLf92Eh":"3"->"6D1VbbSEEXvSwt1nmYUYn2"
-"6D1VbbSEEXvSwt1nmYUYn2"[label=<<table>
+
+"6D1VbbSEEXvSwt1nmYUYn2"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Bond Street</td></tr>
 <tr><td port="1">Lancaster Gate</td></tr>
 </table>>];
 "6D1VbbSEEXvSwt1nmYUYn2":"0"->"JhKZ4yPGcbY5SdqMLf92Eh"
 "6D1VbbSEEXvSwt1nmYUYn2":"1"->"GYczykaJPajaqeQbMeZo4e"
-"Vw6JW6CQrCfMkwweJ9eixJ"[label=<<table>
+
+"Vw6JW6CQrCfMkwweJ9eixJ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Baker Street</td></tr>
 <tr><td port="1">Oxford Circus</td></tr>
 </table>>];
 "Vw6JW6CQrCfMkwweJ9eixJ":"0"->"BqKFFkcvutR4uA5hHnikTj"
 "Vw6JW6CQrCfMkwweJ9eixJ":"1"->"J5HgSjBdFoU6FGegPL3U2s"
-"XVcx4cUqVhRWiYUiNfonEY"[label=<<table>
+
+"XVcx4cUqVhRWiYUiNfonEY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Holborn</td></tr>
 <tr><td port="1">Leicester Square</td></tr>
 </table>>];
 "XVcx4cUqVhRWiYUiNfonEY":"0"->"N1UXgy3cdVsj5wiNMhAfbj"
 "XVcx4cUqVhRWiYUiNfonEY":"1"->"Th1KTPvK3Thh4AGxGgsVtR"
-"JVEKFcwpr9juhRYUTBcrXZ"[label=<<table>
+
+"JVEKFcwpr9juhRYUTBcrXZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Oxford Circus</td></tr>
 <tr><td port="1">Leicester Square</td></tr>
 <tr><td port="2">Charing Cross</td></tr>
@@ -2008,37 +2275,43 @@ digraph {
 "JVEKFcwpr9juhRYUTBcrXZ":"1"->"Th1KTPvK3Thh4AGxGgsVtR"
 "JVEKFcwpr9juhRYUTBcrXZ":"2"->"7dKgePK47LevmypRnm8EJi"
 "JVEKFcwpr9juhRYUTBcrXZ":"3"->"5Shp5szkQe87d5mhtwzeS4"
-"DrxTvLyk2KCeR4TrTqCa9o"[label=<<table>
+
+"DrxTvLyk2KCeR4TrTqCa9o"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Blackfriars</td></tr>
 <tr><td port="1">Embankment</td></tr>
 </table>>];
 "DrxTvLyk2KCeR4TrTqCa9o":"0"->"CzoDHK888PwLY2cQThipZH"
 "DrxTvLyk2KCeR4TrTqCa9o":"1"->"GbSZhgdgxCfbYAycQPMcKS"
-"CzoDHK888PwLY2cQThipZH"[label=<<table>
+
+"CzoDHK888PwLY2cQThipZH"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Mansion House</td></tr>
 <tr><td port="1">Temple</td></tr>
 </table>>];
 "CzoDHK888PwLY2cQThipZH":"0"->"ToqYpr572rPNXGYbMWicci"
 "CzoDHK888PwLY2cQThipZH":"1"->"DrxTvLyk2KCeR4TrTqCa9o"
-"ToqYpr572rPNXGYbMWicci"[label=<<table>
+
+"ToqYpr572rPNXGYbMWicci"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Cannon Street</td></tr>
 <tr><td port="1">Blackfriars</td></tr>
 </table>>];
 "ToqYpr572rPNXGYbMWicci":"0"->"8iAa6TGcZVJ4yvUgfN3cL"
 "ToqYpr572rPNXGYbMWicci":"1"->"CzoDHK888PwLY2cQThipZH"
-"8iAa6TGcZVJ4yvUgfN3cL"[label=<<table>
+
+"8iAa6TGcZVJ4yvUgfN3cL"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Monument</td></tr>
 <tr><td port="1">Mansion House</td></tr>
 </table>>];
 "8iAa6TGcZVJ4yvUgfN3cL":"0"->"75MG8dMJEDHyMC9X5TUTKx"
 "8iAa6TGcZVJ4yvUgfN3cL":"1"->"ToqYpr572rPNXGYbMWicci"
-"EShFo3W13W2TfLSXmQtcGh"[label=<<table>
+
+"EShFo3W13W2TfLSXmQtcGh"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">London Bridge</td></tr>
 <tr><td port="1">Waterloo</td></tr>
 </table>>];
 "EShFo3W13W2TfLSXmQtcGh":"0"->"UFYjtBPtd1hzKnTzPf6taZ"
 "EShFo3W13W2TfLSXmQtcGh":"1"->"7ucjqQq97ebypVwhhsD4dP"
-"UFYjtBPtd1hzKnTzPf6taZ"[label=<<table>
+
+"UFYjtBPtd1hzKnTzPf6taZ"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Monument</td></tr>
 <tr><td port="1">Borough</td></tr>
 <tr><td port="2">Southwark</td></tr>
@@ -2046,25 +2319,29 @@ digraph {
 "UFYjtBPtd1hzKnTzPf6taZ":"0"->"75MG8dMJEDHyMC9X5TUTKx"
 "UFYjtBPtd1hzKnTzPf6taZ":"1"->"5X1GrvncFAqvAUwFsyAmqB"
 "UFYjtBPtd1hzKnTzPf6taZ":"2"->"EShFo3W13W2TfLSXmQtcGh"
-"5X1GrvncFAqvAUwFsyAmqB"[label=<<table>
+
+"5X1GrvncFAqvAUwFsyAmqB"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">London Bridge</td></tr>
-<tr><td port="1">Elephant %26 Castle</td></tr>
+<tr><td port="1">Elephant &amp; Castle</td></tr>
 </table>>];
 "5X1GrvncFAqvAUwFsyAmqB":"0"->"UFYjtBPtd1hzKnTzPf6taZ"
 "5X1GrvncFAqvAUwFsyAmqB":"1"->"XgHfM2e6No4DsvK45eehd6"
-"XgHfM2e6No4DsvK45eehd6"[label=<<table>
+
+"XgHfM2e6No4DsvK45eehd6"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Lambeth North</td></tr>
 <tr><td port="1">Borough</td></tr>
 </table>>];
 "XgHfM2e6No4DsvK45eehd6":"0"->"XWyfbKbk2HwvgjoWFc1Am7"
 "XgHfM2e6No4DsvK45eehd6":"1"->"5X1GrvncFAqvAUwFsyAmqB"
-"XWyfbKbk2HwvgjoWFc1Am7"[label=<<table>
+
+"XWyfbKbk2HwvgjoWFc1Am7"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Waterloo</td></tr>
-<tr><td port="1">Elephant %26 Castle</td></tr>
+<tr><td port="1">Elephant &amp; Castle</td></tr>
 </table>>];
 "XWyfbKbk2HwvgjoWFc1Am7":"0"->"7ucjqQq97ebypVwhhsD4dP"
 "XWyfbKbk2HwvgjoWFc1Am7":"1"->"XgHfM2e6No4DsvK45eehd6"
-"V9eCCZLW4nDvqJzowssdtY"[label=<<table>
+
+"V9eCCZLW4nDvqJzowssdtY"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Green Park</td></tr>
 <tr><td port="1">Embankment</td></tr>
 <tr><td port="2">Waterloo</td></tr>
@@ -2074,13 +2351,15 @@ digraph {
 "V9eCCZLW4nDvqJzowssdtY":"1"->"GbSZhgdgxCfbYAycQPMcKS"
 "V9eCCZLW4nDvqJzowssdtY":"2"->"7ucjqQq97ebypVwhhsD4dP"
 "V9eCCZLW4nDvqJzowssdtY":"3"->"Mj9oXnYJFGyXFiwnjEAVP2"
-"HMPMpHd5q8PrFrDpR1kbmm"[label=<<table>
+
+"HMPMpHd5q8PrFrDpR1kbmm"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Bank</td></tr>
 <tr><td port="1">Chancery Lane</td></tr>
 </table>>];
 "HMPMpHd5q8PrFrDpR1kbmm":"0"->"3RhgAGfCe3gLzQ7rijFCns"
 "HMPMpHd5q8PrFrDpR1kbmm":"1"->"HAgADGtU2hx2BU7H1gBRk"
-"75MG8dMJEDHyMC9X5TUTKx"[label=<<table>
+
+"75MG8dMJEDHyMC9X5TUTKx"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Moorgate</td></tr>
 <tr><td port="1">Tower Hill</td></tr>
 <tr><td port="2">London Bridge</td></tr>
@@ -2090,31 +2369,36 @@ digraph {
 "75MG8dMJEDHyMC9X5TUTKx":"1"->"YFLi7oRSw6585gR8NfgzY5"
 "75MG8dMJEDHyMC9X5TUTKx":"2"->"UFYjtBPtd1hzKnTzPf6taZ"
 "75MG8dMJEDHyMC9X5TUTKx":"3"->"8iAa6TGcZVJ4yvUgfN3cL"
-"FLtAFfVcxuhAWRyPV4SemF"[label=<<table>
+
+"FLtAFfVcxuhAWRyPV4SemF"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">King's Cross</td></tr>
 <tr><td port="1">Barbican</td></tr>
 </table>>];
 "FLtAFfVcxuhAWRyPV4SemF":"0"->"F7sRhB7ehpbRat271171Y9"
 "FLtAFfVcxuhAWRyPV4SemF":"1"->"GkLkaxFUKWbz8SCzgrq8nV"
-"GkLkaxFUKWbz8SCzgrq8nV"[label=<<table>
+
+"GkLkaxFUKWbz8SCzgrq8nV"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Farringdon</td></tr>
 <tr><td port="1">Moorgate</td></tr>
 </table>>];
 "GkLkaxFUKWbz8SCzgrq8nV":"0"->"FLtAFfVcxuhAWRyPV4SemF"
 "GkLkaxFUKWbz8SCzgrq8nV":"1"->"PxseKtLQgTswt4BVxDXoga"
-"KBZRNaQr8H3uMaiz1d4ZZp"[label=<<table>
+
+"KBZRNaQr8H3uMaiz1d4ZZp"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">King's Cross</td></tr>
 <tr><td port="1">Holborn</td></tr>
 </table>>];
 "KBZRNaQr8H3uMaiz1d4ZZp":"0"->"F7sRhB7ehpbRat271171Y9"
 "KBZRNaQr8H3uMaiz1d4ZZp":"1"->"N1UXgy3cdVsj5wiNMhAfbj"
-"5S7UEqjfFBAqR3e9m1UgoK"[label=<<table>
+
+"5S7UEqjfFBAqR3e9m1UgoK"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">King's Cross</td></tr>
 <tr><td port="1">Great Portland Street</td></tr>
 </table>>];
 "5S7UEqjfFBAqR3e9m1UgoK":"0"->"F7sRhB7ehpbRat271171Y9"
 "5S7UEqjfFBAqR3e9m1UgoK":"1"->"78VYUNX57Kp7fdVMe343MJ"
-"2UQpdbouoQrNMuvwGudran"[label=<<table>
+
+"2UQpdbouoQrNMuvwGudran"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Euston</td></tr>
 <tr><td port="1">Oxford Circus</td></tr>
 <tr><td port="2">Goodge Street</td></tr>
@@ -2122,14 +2406,15 @@ digraph {
 "2UQpdbouoQrNMuvwGudran":"0"->"P39Jy8ZxJhPzmwmw6k9D5g"
 "2UQpdbouoQrNMuvwGudran":"1"->"J5HgSjBdFoU6FGegPL3U2s"
 "2UQpdbouoQrNMuvwGudran":"2"->"7VkLXPks5B8UZMfD8NiiXK"
-"yKVkafy4LJ3UGZXuoi4eA"[label=<<table>
+
+"yKVkafy4LJ3UGZXuoi4eA"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Tutorial</td></tr>
 <tr><td port="1">Support</td></tr>
 <tr><td port="2">Manual</td></tr>
 <tr><td port="3">Troubleshooting</td></tr>
 <tr><td port="4">FAQ</td></tr>
 <tr><td port="5">Guide</td></tr>
-<tr><td port="6">Q%26A</td></tr>
+<tr><td port="6">Q&amp;A</td></tr>
 <tr><td port="7">User forums</td></tr>
 <tr><td port="8">--------------</td></tr>
 <tr><td port="9">Credits</td></tr>
@@ -2143,7 +2428,8 @@ digraph {
 "yKVkafy4LJ3UGZXuoi4eA":"6"->"yKVkafy4LJ3UGZXuoi4eA"
 "yKVkafy4LJ3UGZXuoi4eA":"7"->"yKVkafy4LJ3UGZXuoi4eA"
 "yKVkafy4LJ3UGZXuoi4eA":"9"->"9zoNMBhzvTLVpWuxXBzYF2"
-"9zoNMBhzvTLVpWuxXBzYF2"[label=<<table>
+
+"9zoNMBhzvTLVpWuxXBzYF2"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Some of the people who collaborated on this comic:</td></tr>
 <tr><td port="1">@chromakode</td></tr>
 <tr><td port="2">Amber</td></tr>
@@ -2153,7 +2439,7 @@ digraph {
 <tr><td port="6">Stereo</td></tr>
 </table>>];
 
-"Rxv9DzM417BTEBgeGc8tHf"[label=<<table>
+"Rxv9DzM417BTEBgeGc8tHf"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Steal bitcoins</td></tr>
 <tr><td port="1">Say swears</td></tr>
 <tr><td port="2">Hack</td></tr>
@@ -2162,7 +2448,8 @@ digraph {
 "Rxv9DzM417BTEBgeGc8tHf":"1"->"PA3NVjffVxU93ubM29rjvW"
 "Rxv9DzM417BTEBgeGc8tHf":"2"->"GXxey8ySfEdiPZ81iKNnjq"
 "Rxv9DzM417BTEBgeGc8tHf":"3"->"Tvq9qivzEVB2Zd14v7q25Y"
-"PA3NVjffVxU93ubM29rjvW"[label=<<table>
+
+"PA3NVjffVxU93ubM29rjvW"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Heckgosh</td></tr>
 <tr><td port="1">Jeepers</td></tr>
 <tr><td port="2">By my troth</td></tr>
@@ -2170,25 +2457,25 @@ digraph {
 <tr><td port="4">Willikers</td></tr>
 </table>>];
 
-"GXxey8ySfEdiPZ81iKNnjq"[label=<<table>
+"GXxey8ySfEdiPZ81iKNnjq"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Gibson</td></tr>
 <tr><td port="1">Election</td></tr>
 <tr><td port="2">Planet</td></tr>
 </table>>];
 
-"Tvq9qivzEVB2Zd14v7q25Y"[label=<<table>
+"Tvq9qivzEVB2Zd14v7q25Y"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">U</td></tr>
 <tr><td port="1">Z</td></tr>
-<tr><td port="2">%3Cthis menu option intentionally left blank%3E</td></tr>
+<tr><td port="2">&lt;this menu option intentionally left blank&gt;</td></tr>
 <tr><td port="3">Э</td></tr>
 <tr><td port="4">⚔</td></tr>
 </table>>];
 
-"SBJU5emcQBemvQcH53PW63"[label=<<table>
+"SBJU5emcQBemvQcH53PW63"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Recovery takes 10 to 12 months</td></tr>
 </table>>];
 
-"999rE9MMUxChV7MSbySXfR"[label=<<table>
+"999rE9MMUxChV7MSbySXfR"[label=<<table border="0" cellborder="1" cellspacing="0">
 <tr><td port="0">Power On</td></tr>
 </table>>];
 }
