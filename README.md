@@ -1,4 +1,4 @@
-# XKCD 9175 Scraper
+# XKCD 1975 Scraper
 
 This is a scraper for [XKCD comic #1975, "Right Click"](https://xkcd.com/1975/), which involves a right click menu with far too many options. These two scripts try to make it a bit easier to explore.
 
